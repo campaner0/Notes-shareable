@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Synchronous Generator
+tags: [Electric_Machines]
 ---
 03/14/2023 18:40
 
-  #Electric_Machines 
+  
 
 
 

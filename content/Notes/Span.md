@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Linear_Algebra]
 ---
 09/14/2022 12:03
 
-  #Linear_Algebra 
+  
 
 The span of a set of [[Vector|Vectors]] is the set of all linear combinations of the vectors:
 $$

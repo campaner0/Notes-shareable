@@ -1,10 +1,11 @@
 ---
 type: note
 alias: General Purpose Timer
+tags: [Embeded_Systems]
 ---
 04/10/2023 15:18
 
-  #Embeded_Systems 
+  
 
 The general purpose timers on a microcontroller are designed by the chip's designer and may vary from chip to chip. This is as opposed to the [[System Timer]], which is a standard peripheral designed by ARM. Whereas the system timer is specialized in nature, general purpose timers are can be used for a variety of applications.
 

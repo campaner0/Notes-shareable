@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Complex Number
+tags: [math, Circuit_Analysis]
 ---
 04/08/2022 14:34
 
-  #math , #Circuit_Analysis 
+  , 
 
 Complex numbers are numbers with an imaginary component, that is, with a part that is a multiple of $i$ ($j$ in electrical engineering contexts), where $i^2=-1$. The real numbers are a subset of the complex numbers with an imaginary part of zero. Complex numbers are displayed on the complex plane, where the vertical axis is the imaginary axis and the horizontal is the real axis. 
 

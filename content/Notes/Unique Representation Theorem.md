@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/17/2022 17:51
 
-  #math 
+  
 
 For a [[Vector Space]] $V$ with [[Basis]] $\beta=\{b_1,b_2,\cdots,b_n\}$, any [[Vector]] $x\in V$ can be expressed as a sum of the basis vectors with certain weights:
 $$

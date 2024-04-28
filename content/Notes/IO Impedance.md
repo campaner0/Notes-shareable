@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 01/24/2023 10:00
 
-  #Circuit_Analysis 
+  
 
 
 ## Input Impedance

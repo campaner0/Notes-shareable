@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [engineering_econ]
 ---
 10/04/2023 13:10
 
-  #engineering_econ 
+  
 
 When selecting between two or more proposals based on their possible ROI, they must be sorted into mutually exclusive and independent projects. Each project is converted into [[Current Value|Present Worth]] using the [[MARR]]. 
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math, Circuit_Analysis]
 ---
 10/31/2022 16:23
 
-  #math #Circuit_Analysis 
+  
 
 The Laplace transform converts a real-valued function into its complex-valued equivalent. This can be useful for functions that are easier to manipulate and compute in the frequency domain (e.g. differential equations become algebraic). To find the Laplace transform of a function: 
 $$

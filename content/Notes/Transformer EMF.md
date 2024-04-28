@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics]
 ---
 10/11/2022 18:20
 
-  #Electromagnetics 
+  
 
 Transformer emf is the [[Voltage]] induced in a stationary inductor due to a time-varying magnetic field:
 $$

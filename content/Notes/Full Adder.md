@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 09/28/2022 17:56
 
-  #Digital_Logic 
+  
 
 A full adder is constructed from two [[Half Adder]]s and an OR gate:
 ![[Full Adder.png]]

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [engineering_econ]
 ---
 11/08/2023 12:39
 
-  #engineering_econ 
+  
 
 A replacement study is done whenever an investment is considered for replacement due to deterioration, changing requirements/technology, under performance, etc. The defender is the currently installed asset, and the challenger is the potential replacement. These are mutually exclusive alternatives. A nonowner's (3rd party) viewpoint may be considered for objectivity.
 

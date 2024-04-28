@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, Electromagnetics]
 ---
 11/12/2022 11:54
 
-  #Physics #Electromagnetics 
+  
 
 If current flows through a conductor, it will create a [[Magnetic Field]], which at a point near the wire is described by:
 $$

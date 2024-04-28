@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis, Physics]
 ---
 03/21/2022 14:46
 
-  #Circuit_Analysis, #Physics 
+ , 
 
 Circuit made up of only resistors and capacitors (and possibly source). These can be reduced to an equivalent circuit with one cap ($C_{eq}$) and one resistor ($R_{eq}$)
 

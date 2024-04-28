@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electric_Machines]
 ---
 02/09/2023 18:56
 
-  #Electric_Machines 
+  
 
 
 $$\begin{align*}

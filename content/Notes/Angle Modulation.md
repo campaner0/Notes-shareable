@@ -4,10 +4,11 @@ aliases:
   - Frequency Modulation
   - FM
   - Phase Modulation
+tags: [comunication_systems, Signals]
 ---
 08/14/2023 15:10
 
-  #comunication_systems #Signals 
+  
 
 Angle modulation, as opposed to [[Amplitude Modulation|AM]], is the varying of the [[Phase Angle|Phase]] of a signal to communicate info. 
 

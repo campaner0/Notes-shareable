@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Solid
+tags: [Chemistry, Materials_Science]
 ---
 02/05/2024 18:03
 
-  #Chemistry #Materials_Science
+ 
 
 
 [[Crystal Structures]]

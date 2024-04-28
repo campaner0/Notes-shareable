@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 03/20/2022 19:25
 
-  #Physics 
+  
 
 Velocity is a [[Vector]] defined by the rate of change of position with respect to time:
 $$

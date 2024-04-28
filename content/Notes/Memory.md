@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Embeded_Systems]
 ---
 01/11/2023 15:15
 
-  #Embeded_Systems 
+  
 
 Computer memory is where the computer stores program data and instructions. From the perspective of software, the memory is simply an addressable array of bytes. This is why most instructions only deal with bytes, though bitwise operations are possible.
 

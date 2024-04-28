@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, Circuit_Analysis, Electromagnetics, Semiconductor_Devices]
 ---
 08/04/2023 14:19
 
-  #Physics #Circuit_Analysis #Electromagnetics #Semiconductor_Devices 
+  
 
 Displacement current is the product of [[Permittivity]] and the derivative of [[Electric Flux]]:
 $$

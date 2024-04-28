@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 04/19/2022 13:13
 
-  #Physics 
+  
 
 Maxwell's equations are these four relating to electromagnetism:
 

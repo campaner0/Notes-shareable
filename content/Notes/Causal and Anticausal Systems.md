@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math, Signals]
 ---
 02/08/2023 14:08
 
-  #math #Signals 
+  
 
 A causal system is one whose value at any time depends only on past and present inputs. If a system depends on past, present, and future values, it is acausal or non-causal. A system whose values at any time depend only on future inputs is anticausal. 
 

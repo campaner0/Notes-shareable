@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 12/14/2022 17:42
 
-  #math 
+  
 
 Matrix operations are opertions involving two [[Matrix|Matrices]] or a scalar and a matrix.
 

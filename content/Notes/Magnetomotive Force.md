@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electric_Machines]
 ---
 01/19/2023 18:55
 
-  #Electric_Machines 
+  
 
 Not to be confused with the [[Voltage|Electromotive Force]] or [[Electromagnetic Force]], the magnetomotive force is the equivalent of [[Voltage]] in a [[Magnetic Circuits|Magnetic Circuit]]. Units: Ampere Turns
 

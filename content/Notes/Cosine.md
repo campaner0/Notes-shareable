@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Cos
+tags: [math]
 ---
 08/21/2023 14:47
 
-  #math 
+  
 
 
 

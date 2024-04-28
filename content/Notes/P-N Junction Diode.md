@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Diode
+tags: [Semiconductor_Devices]
 ---
 01/26/2023 10:27
 
-  #Semiconductor_Devices 
+  
 
 The P-N junction diode is a semiconductor device that consists of one [[P-N Junction]] with two terminals. It serves to only alow current to flow in one direction.
 

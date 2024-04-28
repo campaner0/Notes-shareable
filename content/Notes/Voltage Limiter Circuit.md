@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 02/16/2023 09:35
 
-  #Circuit_Analysis 
+  
 
 A [[Voltage]] limiter circuit employs one or two [[P-N Junction Diode|Diode]]s and voltage sources to limit the voltage output to a certain range, even when input voltage changes. With ideal diodes, the voltage will be held at $V_x$ when $V_{in}>V_x$
 

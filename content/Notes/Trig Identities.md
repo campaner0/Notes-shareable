@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 04/12/2023 14:05
 
-  #math 
+  
 
 The trigonometric functions are those that describe right [[Triangle]]s.
 

@@ -1,10 +1,11 @@
 ---
 type: note
 aliases: []
+tags: [History, Georgia]
 ---
 12/13/2023 16:59
 
-  #History #Georgia 
+  
 
 
 ## Pre-Colonial

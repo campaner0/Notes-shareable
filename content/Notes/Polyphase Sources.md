@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 09/21/2022 15:53
 
-  #Circuit_Analysis 
+  
 
 #### Definitions
 For a polyphase system, the voltage across two terminals is the line voltage. The line current is the current from a terminal of the source to its corresponding terminal of the load.

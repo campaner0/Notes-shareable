@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 01/11/2023 13:58
 
-  #math 
+  
 
 The Mandelbrot set is the set of complex numbers where the following iterative equation does not diverge:
 $$

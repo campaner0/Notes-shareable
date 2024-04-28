@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Euler's Identity
+tags: [math]
 ---
 01/23/2023 13:32
 
-  #math 
+  
 
 Euler's Formula relates the trigonometric functions to the complex exponential function:
 $$

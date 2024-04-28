@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electric_Machines]
 ---
 04/13/2023 18:52
 
-  #Electric_Machines 
+  
 
 
 ![[Pasted image 20230413185801.png]]

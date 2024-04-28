@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [ethics]
 ---
 09/11/2023 12:41
 
-  #ethics 
+  
 
 [[Ethics|Ethical]] theories are used to determine the most ethical decision consistently. They are the current best thinking on how to act most ethically. Some of the most common theories:
 

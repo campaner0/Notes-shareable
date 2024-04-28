@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/16/2022 21:53
 
-  #math 
+  
 
 The column space (or image) of a $n\times m$ [[Matrix]] $A$ is the [[Span]] of the columns of $A$:
 $$

@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Diffract
+tags: [Physics]
 ---
 02/19/2024 17:37
 
-  #Physics 
+  
 
 Diffraction is the interference of waves resulting from the waves' bending around a corner or reflecting off of different planes of a material's surface. 
 

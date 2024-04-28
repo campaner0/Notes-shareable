@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Diodes
+tags: [Circuit_Analysis]
 ---
 01/10/2023 10:09
 
-  #Circuit_Analysis 
+  
 
 
 

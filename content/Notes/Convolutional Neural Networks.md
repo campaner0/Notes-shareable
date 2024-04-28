@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [machine_learning]
 ---
 04/02/2024 11:50
 
-  #machine_learning
+ 
 
 In a convolutional [[Neural Network]], the input data is first [[Convolution|Convolved]] with a filter (or kernel) to create a feature map. The process may be repeated on the resulting feature map and again on that result. This, along with pooling, makes up the feature learning process which allows the NN to recognize certain characteristic features in the data that allow it to distinguish and classify different parts of the data. Applied to images, the CNN may learn the shape of a leg, ear, or other body parts of a cat that allows it to recognize a cat due to the presence of its learned features. If features of dogs are learned also, it can learn to distinguish between cats and dogs.
 

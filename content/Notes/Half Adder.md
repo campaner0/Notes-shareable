@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 09/21/2022 17:12
 
-  #Digital_Logic 
+  
 
 A half adder adds the bits of a two bit [[Binary]] number 
 

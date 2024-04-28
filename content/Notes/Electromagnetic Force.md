@@ -4,10 +4,11 @@ aliases:
   - Lorentz Force
   - Electric Force
   - Magnetic Force
+tags: [Physics]
 ---
 03/22/2022 23:01
 
-  #Physics 
+  
 
 One of [[The Four Fundamental Interactions]]. Describes the forces surrounding electric charge and magnetism. It is the sum of electric and magnetic forces:
 $$

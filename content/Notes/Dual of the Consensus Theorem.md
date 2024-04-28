@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 09/07/2022 17:47
 
-  #Digital_Logic 
+  
 
 The dual of the [[Consensus Theorem]] is a [[Boolean Algebra]] theorem that states:
 $$

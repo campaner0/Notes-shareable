@@ -4,10 +4,11 @@ aliases:
   - Attenuates
   - Attenuate
   - Attenuated
+tags: [Electromagnetics, Circuit_Analysis]
 ---
 11/01/2022 17:53
 
-  #Electromagnetics #Circuit_Analysis 
+  
 
 The attenuation of an oscillating signal is the measure of how quickly the energy of the wave changes (in most cases it is reduced) such that the amplitude of the wave approaches infinity or zero. 
 

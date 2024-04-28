@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [engineering_econ]
 ---
 10/24/2023 15:08
 
-  #engineering_econ 
+  
 
 Financing is the action of providing funds for an enterprise or person. This is often done by a bank, or investor. It is done with the expectation that the lender will receive [[Interest and Interest Rate|Interest]] on their investment.
 

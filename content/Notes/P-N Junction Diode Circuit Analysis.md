@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Semiconductor_Devices, Circuit_Analysis]
 ---
 01/26/2023 09:33
 
-  #Semiconductor_Devices #Circuit_Analysis 
+  
 
  The [[P-N Junction Diode]] is a nonlinear circuit element, so its behavior cannot be fully described using linear equatons such as [[Ohm's Law]]. Therefore, a variety of models may be used to describe its behavior under certain circumstances. In circuit diagrams, the diode is represented as below:
  

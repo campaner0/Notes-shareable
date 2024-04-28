@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Chemistry, Materials_Science]
 ---
 02/28/2024 16:56
 
-  #Chemistry #Materials_Science 
+  
 
 
 In Joules per Kelvin:

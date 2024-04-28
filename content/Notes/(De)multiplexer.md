@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 09/28/2022 17:46
 
-  #Digital_Logic 
+  
 
 A multiplexer is used to choose between multiple inputs to send to the output.
 A demultiplexer distributes info from a single input to one or many of $2^n$ outputs. 

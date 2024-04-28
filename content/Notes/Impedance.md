@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis, Physics]
 ---
 04/08/2022 14:29
 
-  #Circuit_Analysis, #Physics 
+ , 
 
 Impedance is the total opposition to current flow in a circuit. This includes resistance and the opposition due to (dis)charging capacitors and inductors. Though resistance is just one part of impedance, [[Ohm's Law]] still applies:
 $$

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 04/07/2022 12:49
 
-  #Physics 
+  
 
 Faraday's Law describes how changing magnetic field can induce an [[Voltage|Electromotive Force]]:
 $$

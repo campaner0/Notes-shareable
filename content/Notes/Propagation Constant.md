@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics]
 ---
 12/05/2022 20:58
 
-  #Electromagnetics 
+  
 
 The propagation constant of a [[Transmission Lines|Transmission Line]] is a complex valued constant that describes how a travelling wave's amplitude and [[Phase Angle|Phase]] change as it travels along the line. It is defined as:
 $$

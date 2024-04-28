@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 01/26/2023 10:12
 
-  #Circuit_Analysis 
+  
 
 To analyze a circuit with nonlinear elements such as a [[P-N Junction Diode|Diode]], follow these steps:
 

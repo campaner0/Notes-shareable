@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Embeded_Systems]
 ---
 02/22/2023 14:42
 
-  #Embeded_Systems 
+  
 
 
 

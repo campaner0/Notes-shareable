@@ -1,13 +1,10 @@
 ---
 type: note
-tags:
-  - computer_science
-  - computer_engineering
-  - reference
+tags: [computer_science, computer_engineering, reference]
 ---
 04/27/2024 22:19
 
-  #computer_engineering #computer_science #reference
+ 
 
 stolen from https://aws.amazon.com/what-is/cli/
 

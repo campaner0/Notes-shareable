@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Semiconductor_Devices]
 ---
 03/27/2024 18:11
 
-  #Semiconductor_Devices 
+  
 
 
 capacitance of interconnects

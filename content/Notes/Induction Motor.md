@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Induction Motors
+tags: [Electric_Machines]
 ---
 03/21/2023 18:54
 
-  #Electric_Machines 
+  
 
 The stator of the induction motor is similar to an [[AC Motors|AC Motor]] (synchronous), but the rotor is different. It can be a squirrel cage rotor or wound rotor. The squirrel cage motor does not need brushes, while the wound rotor does.
 

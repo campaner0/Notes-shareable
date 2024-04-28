@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electric_Machines]
 ---
 02/09/2023 19:07
 
-  #Electric_Machines 
+  
 
 In a per unit measurement system, values are measured as a decimal fraction of a base level instead of the SI units:
 $$

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Linear_Algebra]
 ---
 09/14/2022 09:55
 
-  #Linear_Algebra
+ 
 
 A [[Matrix]] is in echelon form when:
 1. All non-zero rows are above all rows of zeros

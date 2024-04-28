@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Embeded_Systems]
 ---
 01/11/2023 14:53
 
-   #Embeded_Systems 
+   
 
 Computer architecture refers to how data is stored in [[Memory]] (such as [[RAM]]) and how the data is moved around and processed within the computer. 
 

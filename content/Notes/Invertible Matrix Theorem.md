@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/16/2022 12:03
 
-  #math 
+  
 
 Given a $n\times n$ [[Matrix]] $A$, the following statements are equivalent:
 

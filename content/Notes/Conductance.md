@@ -1,11 +1,12 @@
 ---
 aliases: []
 type: note
+tags: [Physics, Materials_Science, Semiconductor_Devices]
 ---
 
 08/04/2023 13:56
 
-  #Physics #Materials_Science  #Semiconductor_Devices 
+   
 
 
 $$

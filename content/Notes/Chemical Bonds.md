@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Chemical Bond
+tags: [Physics, Chemistry]
 ---
 01/22/2024 18:12
 
-  #Physics #Chemistry 
+  
 
 A chemical bond is the lasting attraction between two [[Atomic Theory|Atoms]] which allows the formation of molecules. The bond may be a primary (strong) bond, or a secondary (weak) bond. There is no clear line between different types of bonds, so a bond may have certain characteristics of multiple types of bonds. 
 

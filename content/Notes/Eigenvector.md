@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/17/2022 18:01
 
-  #math 
+  
 
 An eigenvector of a $n\times n$ [[Matrix]] $A$ is a nonzero [[Vector]] $x$ such that $Ax=\lambda x$ for some scalar $\lambda$, an eigenvalue of $A$. The eigenvectors of a matrix are the vectors that stay on their [[Span]] when the transformation is applied to the [[Vector Space]] that contains the vectors. That is, they are not rotated or shifted. Therefore, a rotation matrix has no eigenvectors. 
 

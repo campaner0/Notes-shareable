@@ -3,10 +3,11 @@ type: note
 aliases:
   - e-
   - Electrons
+tags: [Chemistry, Physics]
 ---
 02/06/2024 19:21
 
-  #Chemistry #Physics 
+  
 
 An electron is a subatomic particle with a charge of -1 elementary [[Charge]]. They are essential to phenomena such as electricity, chemistry, and thermal conductivity. It has a mass of:
 $$

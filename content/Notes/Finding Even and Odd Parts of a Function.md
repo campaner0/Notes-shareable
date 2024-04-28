@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math, Signals]
 ---
 02/06/2023 14:06
 
-  #math #Signals 
+  
 
 Every function can be written as the sum of even and odd functions, even if the function is neither even nor odd (see [[Even and Odd Functions]]). To separate a function into its even and odd parts:
 $$

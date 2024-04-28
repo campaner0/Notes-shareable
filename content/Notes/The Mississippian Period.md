@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [History, Georgia]
 ---
 12/18/2023 12:12
 
-  #History #Georgia 
+  
 
 The Mississippian period in the southern and midwestern states was an era of American history in which many complex pre-Columbian societies developed. This period lasted from around A.D. 800 - 1600. 
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics]
 ---
 11/11/2022 11:07
 
-  #Electromagnetics 
+  
 
 The lumped element model is a [[Transmission Lines|Transmission Line]] model for any TEM line. It divides the two lines into differential segments of length $\Delta z$, each of which contains elements representing the transmission line parameters:
 

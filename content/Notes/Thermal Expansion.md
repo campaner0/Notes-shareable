@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Chemistry]
 ---
 01/31/2024 18:01
 
-  #Chemistry 
+  
 
 
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Materials_Science, constant]
 ---
 04/04/2024 11:57
 
-  #Materials_Science #constant
+ 
 
 
 

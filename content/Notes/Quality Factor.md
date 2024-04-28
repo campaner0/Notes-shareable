@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 11/29/2022 12:12
 
-  #Circuit_Analysis 
+  
 
 Quality factor describes how underdamped an [[Waves|Oscillator]] or resonator is. In an [[RLC Circuits|RLC Circuit]], it is the ratio of [[Energy]] stored to energy lost. Circuits with a higher quality factor have a narrower [[Bandwidth]] and therefore greater frequency selectivity. The quality factor of a circuit operating at its resonant [[Frequency]] is given by:
 

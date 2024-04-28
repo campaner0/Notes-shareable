@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/16/2022 13:12
 
-  #math 
+  
 
 A [[Vector]] space (or linear space) is a non-empty set $V$ of vectors on which are defined vector addition and scalar multiplication. Along with these two operations, the space must satisfy the following eight axioms:
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics]
 ---
 12/05/2022 21:45
 
-  #Electromagnetics 
+  
 
 
 $$

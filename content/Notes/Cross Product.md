@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 03/25/2022 18:17
 
-  #math
+ 
 
 The cross product of two [[Vector]]s is the [[Determinant]] of a matrix in which the first row is populated by the standard unit vectors of the chosen coordinate system, and the second and third row by the values of each vector. In $\mathbb R^3$ with cartesian coordinates:
 $$

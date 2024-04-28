@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Capacitor
+tags: [Physics, Circuit_Analysis]
 ---
 03/21/2022 17:11
 
-  #Physics, #Circuit_Analysis 
+ , 
 
 Capacitance is the ratio of [[Charge]] on a conductor to the difference in [[Voltage|Electric Potential]], either between conductor/enviroment (self) or conductor/conductor (mutual). 
 $$

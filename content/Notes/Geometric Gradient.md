@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [engineering_econ]
 ---
 08/30/2023 13:03
 
-  #engineering_econ 
+  
 
 A geometric gradient changes cash flow by a certain percentage each year, as opposed to an [[Arithmetic Gradient]] which changes by a fixed amount. The ratios of consecutive terms are equal.
 

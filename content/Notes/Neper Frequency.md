@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Attenuation Coefficient
+tags: [Circuit_Analysis]
 ---
 11/29/2022 20:42
 
-  #Circuit_Analysis 
+  
 
 The [[Attenuation]] coefficient or "Neper Frequency," $\alpha$ (sometimes $\sigma$), describes how a signal is attenuated in a circuit. It has a unit of Nepers per second. A quantity $\alpha t$, where $t$ is time, is measured in Nepers, which are similar to [[Decibels]] in that it is a logarithmic scale: 
 $$

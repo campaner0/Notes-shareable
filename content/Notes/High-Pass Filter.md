@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis, comunication_systems]
 ---
 09/06/2023 15:17
 
-  #Circuit_Analysis #comunication_systems 
+  
 
 A high-pass filter will [[Filters|Filter]] out frequencies below the corner [[Frequency]].
 

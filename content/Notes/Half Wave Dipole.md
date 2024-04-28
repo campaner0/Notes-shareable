@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Antennas, Electromagnetics]
 ---
 02/19/2024 16:44
 
-  #Antennas #Electromagnetics 
+  
 
 A half wave dipole is a dipole antenna where the length of the antenna is half the wavelength of its signal.
 

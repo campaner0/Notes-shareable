@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Matching Network
+tags: [Electromagnetics, Antennas]
 ---
 01/24/2024 15:34
 
-  #Electromagnetics #Antennas 
+  
 
 Matching networks are a type of [[Transmission Lines|Transmission Line]] used to match an input [[Impedance]] to a generator's output impedance (usually 50 or 75 ohms). There are several types including:
 - [[Quarter Wavelength Transformer]]

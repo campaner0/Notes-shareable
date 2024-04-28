@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Heat
+tags: [Physics, Chemistry]
 ---
 01/24/2024 17:10
 
-  #Physics #Chemistry 
+  
 
 
 

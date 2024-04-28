@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Linear_Algebra]
 ---
 09/14/2022 11:33
 
-  #Linear_Algebra 
+  
 
 
 In linear algebra, [[Matrix]]-[[Vector]] multiplication is given by:

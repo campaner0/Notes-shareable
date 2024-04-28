@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math, Physics]
 ---
 08/18/2022 18:14
 
-  #math #Physics 
+  
 
 Divergence is a measure of the [[Flux]] density through a volume, or the flux per unit [[Volume]] over a closed surface. It is denoted as:
 $$

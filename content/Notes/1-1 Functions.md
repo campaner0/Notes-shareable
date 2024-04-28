@@ -4,10 +4,11 @@ aliases:
   - 1 to 1 Functions
   - 1 to 1
   - 1-1
+tags: [math]
 ---
 11/16/2022 11:32
 
-  #math 
+  
 
 A [[Function]] is one-to-one (1-1), or injective, if for every possible output there is at most one corresponding input. That is, the function maps distinct inputs to distinct outputs. This implies:
 $$

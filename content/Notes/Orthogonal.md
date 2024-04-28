@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 10/24/2022 21:00
 
-  #math 
+  
 
 Two or more lines are orthogonal (or perpendicular) if the [[Angle]] between them is $90^\circ$ 
 

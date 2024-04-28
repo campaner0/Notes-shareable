@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math, Physics]
 ---
 08/18/2022 18:10
 
-  #math, #Physics 
+ , 
 
 The gradient of a scalar function is a [[Vector Function]] whose values are the [[Derivative|Partial Derivatives]] with respect to each variable of the scalar function.
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Chemistry, Materials_Science]
 ---
 02/05/2024 18:13
 
-  #Chemistry #Materials_Science 
+  
 
 allotropes - same material, different crystal structures
 

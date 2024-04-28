@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Semiconductor_Devices]
 ---
 03/20/2024 14:59
 
-  #Semiconductor_Devices 
+  
 
 - 4 valence e-
 - Bonds covalently

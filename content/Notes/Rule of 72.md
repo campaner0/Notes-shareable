@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [engineering_econ]
 ---
 08/30/2023 13:11
 
-  #engineering_econ 
+  
 
 The rule of 72 is used to find how long it will take to double one's money. It is found by dividing 72 by the [[Interest and Interest Rate|Interest Rate]]:
 $$

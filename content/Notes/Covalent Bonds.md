@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Covalent
+tags: [Chemistry]
 ---
 02/07/2024 15:12
 
-  #Chemistry 
+  
 
 A covalent bond is a type of [[Chemical Bonds|Chemical Bond]] that involves the sharing of valence [[Electron|Electrons]] between [[Atomic Theory|Atoms]]. 
 

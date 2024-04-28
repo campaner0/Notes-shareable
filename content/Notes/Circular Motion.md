@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 03/23/2022 18:25
 
-  #Physics 
+  
 
 In circular motion, direction is constantly changing, so velocity is constantly changing. In uniform circular motion, the path of rotation is circular and speed is constant. 
 

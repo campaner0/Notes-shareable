@@ -1,9 +1,10 @@
 ---
 alias: KVL
+tags: [Circuit_Analysis, Physics]
 ---
 03/19/2022 17:59
 
-  #Circuit_Analysis, #Physics 
+ , 
 
 Kirchoff's Voltage Law states that the sum of [[Voltage]] drops around a closed loop is equal to zero
 $$

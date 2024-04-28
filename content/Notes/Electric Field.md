@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 03/20/2022 18:03
 
-  #Physics 
+  
 
 The Electric field in an area is a [[Vector Field]] of the [[Force]]s that an infinitesimal positive test [[Charge]] would experience at each point in that area. Hence:
 $$

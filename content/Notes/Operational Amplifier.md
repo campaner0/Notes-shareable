@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Op-Amp
+tags: [Circuit_Analysis]
 ---
 01/12/2023 09:34
 
-  #Circuit_Analysis 
+  
 
 The operational amplifier is a non-linear circuit device that has a variety of uses. For ideal calculations around the op-amp, the input [[Impedance]] at the input terminals is infinite, therefore there is no input [[Current]]. the ideal op-amp is also drawn without the supply terminals, which limit the voltage of the output to their applied voltage.
 

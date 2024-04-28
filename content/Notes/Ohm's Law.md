@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis, Physics]
 ---
 03/20/2022 17:50
 
-  #Circuit_Analysis #Physics 
+  
 
 
 $$

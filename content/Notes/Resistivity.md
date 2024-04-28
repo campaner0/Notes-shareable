@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, Materials_Science]
 ---
 04/03/2024 17:14
 
-  #Physics #Materials_Science 
+  
 
 
 $$

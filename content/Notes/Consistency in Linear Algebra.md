@@ -3,10 +3,11 @@ type: note
 aliases:
   - Consistency
   - Consistent
+tags: [Linear_Algebra]
 ---
 09/14/2022 10:40
 
-  #Linear_Algebra 
+  
 
 In linear algebra, a system of equations may be consistent or inconsistent.
 

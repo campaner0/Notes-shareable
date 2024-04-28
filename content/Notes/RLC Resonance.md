@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 11/14/2022 15:56
 
-  #Circuit_Analysis 
+  
 
 At certain frequencies the [[Impedance]] phasors of the cap and inductor in an RLC circuit are 180$^\circ$ apart, so they cancel each other out which results in a purely real impedance, the equivalent [[Resistance]] of the circuit. This occurs when the [[Voltage]] and [[Current]] inputs are in phase, which is at resonant frequencies:
 $$\begin{align*}

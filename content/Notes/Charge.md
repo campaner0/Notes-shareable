@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Electric Charge
+tags: [Physics]
 ---
 03/23/2022 20:58
 
-  #Physics
+ 
 
 Electric charge is a property of matter that causes it to experience repulsion or attraction in the presence of other charged matter due to the [[Electromagnetic Force]]. 
 - opposites attract, same charge repels

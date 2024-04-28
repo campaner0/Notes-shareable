@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, Circuit_Analysis]
 ---
 03/21/2022 17:11
 
-  #Physics #Circuit_Analysis 
+  
 
 Inductance is the tendency of a conductor to oppose a change in current flowing through it. This is the idea behind [[Magnetic Flux#Lenz's Law|Lenz's Law]]: current flow cannot change instantaneously. This is described by:
 $$

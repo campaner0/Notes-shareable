@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Spanish]
 ---
 01/16/2024 19:13
 
-  #Spanish 
+  
 
 >[!note]
 >This note was imported from OneNote

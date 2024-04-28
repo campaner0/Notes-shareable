@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Wave
+tags: [Physics]
 ---
 03/25/2022 17:57
 
-  #Physics 
+  
 
 
 [[Wave Propagation]]

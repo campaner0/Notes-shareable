@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Passive Filter
+tags: [Circuit_Analysis]
 ---
 02/08/2023 19:18
 
-  #Circuit_Analysis 
+  
 
 A passive [[Filters|Filter]] attenuates unwanted frequencies using passive circuit elements, but cannot amplify the passband, unlike [[Active Filters]]. The four most common types are [[Low-Pass Filter|Low-Pass]], [[High-Pass Filter|High-Pass]], [[Bandpass Filter|Bandpass]], and [[Bandstop Filter|Bandstop]]. 
 

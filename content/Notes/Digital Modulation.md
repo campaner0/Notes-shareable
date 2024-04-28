@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [comunication_systems]
 ---
 10/25/2023 14:59
 
-  #comunication_systems 
+  
 
 
 Digital modulation is the process of translating bits into an analog waveform for transmission. In this case, the information transmitted is digital, as opposed to [[Amplitude Modulation|AM]] or [[Angle Modulation|FM]] transmission, where analog information is transmitted.

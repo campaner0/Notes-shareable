@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 08/17/2022 16:56
 
-  #Digital_Logic 
+  
 
 Binary is a base 2 number system which therefore uses two digits: $0$ and $1$. It is often denoted with a subscript 'B' after the number to avoid confusion with other number systems. (ex: $1101001_B$)
 

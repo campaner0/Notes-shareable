@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 07/20/2022 19:05
 
-  #Physics 
+  
 
 Friction is a [[Force]] perpendicular to the [[Normal Force]] and parallel to the plane where the two objects meet. It opposes motion along this plane.
 

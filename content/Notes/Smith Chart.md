@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics, Antennas]
 ---
 01/08/2024 16:40
 
-  #Electromagnetics #Antennas
+ 
 
 The Smith chart was independently developed by Tosaku Mizuhashi in 1937, Amiel R. Volpert in 1939, and P. H. Smith also in 1939. It is a tool used for RF calculations involving [[Transmission Lines]].
 

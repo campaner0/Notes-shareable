@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Embeded_Systems]
 ---
 01/20/2023 14:45
 
-  #Embeded_Systems 
+  
 
 For computer processors, status flags are used to indicate the status of results of operations. These flags are recored in the status register (see [[Computer Architecture]]). For the ARM Cortex-M, these are:
 1. Negative (N) - set if result is negative

@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Transmission Line
+tags: [Electromagnetics]
 ---
 11/10/2022 21:30
 
-  #Electromagnetics 
+  
 
 Transmission lines that carry an electromagnetic signal connect a generator and load in specific cases of high [[Frequency]] and long lines. In other cases, the system can be modeled with ideal connections, that is, without taking into account the transmission line effects of [[Phase Angle|Phase]] shift, reflected signals, [[Electrical Power|Power]] loss, and dispersion.
 

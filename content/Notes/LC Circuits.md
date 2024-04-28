@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis, Physics]
 ---
 03/21/2022 14:42
 
-  #Circuit_Analysis, #Physics 
+ , 
 
 #### Source Free Circuit
 If the inductor or capcitor is charged, the energy will oscillate between each component. Since energy is conserved, and the [[Voltage]] across the two are the same, the following emerges:

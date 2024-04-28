@@ -3,10 +3,11 @@ type: note
 aliases:
   - P
   - Present Worth
+tags: [engineering_econ]
 ---
 08/30/2023 13:42
 
-  #engineering_econ 
+  
 
 
 

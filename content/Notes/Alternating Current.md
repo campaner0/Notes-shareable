@@ -1,10 +1,11 @@
 ---
 type: note
 alias: AC
+tags: [Circuit_Analysis]
 ---
 03/28/2022 14:41
 
-  #Circuit_Analysis
+ 
 
 An oscillating [[Current]] source will produce a current that is described by a sinusoidal function:
 $$

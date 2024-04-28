@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 09/07/2022 18:05
 
-  #Digital_Logic 
+  
 
 A sum of minterms is a shorthand way to write a [[Boolean Algebra]] function. If each variable and its inverse are taken as 1's and 0's, then the function can be written as a sum of [[Binary]] numbers:
 $$\begin{align*}

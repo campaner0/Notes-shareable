@@ -1,10 +1,11 @@
 ---
 type: note
 alias: OSI
+tags: [comunication_systems]
 ---
 08/18/2023 14:41
 
-  #comunication_systems 
+  
 
 The OSI was the first standard model for computer networks, developed in the 80s. It replaced the monopoly IBM had on computer networking.
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 03/21/2023 09:39
 
-  #Circuit_Analysis 
+  
 
 
 

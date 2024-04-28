@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Sin
+tags: [math]
 ---
 08/21/2023 15:14
 
-  #math 
+  
 
 
 

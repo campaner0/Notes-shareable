@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics, Antennas]
 ---
 02/16/2024 10:51
 
-  #Electromagnetics #Antennas 
+  
 
 The wavelength of an [[Electromagnetic Wave]] is 
 

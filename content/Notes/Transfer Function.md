@@ -2,10 +2,11 @@
 type: note
 aliases:
   - TF
+tags: [Circuit_Analysis]
 ---
 11/07/2022 16:14
 
-  #Circuit_Analysis 
+  
 
 The transfer function of a circuit is the ratio of the output to input [[Voltage|Voltages]] or [[Current|Currents]]:
 $$

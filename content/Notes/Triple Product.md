@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 08/23/2022 17:19
 
-  #math 
+  
 
 Triple products are combinations of the [[Cross Product]] and [[Dot Product]]: The scalar triple product results in a scalar and the vector triple results in a vector
 

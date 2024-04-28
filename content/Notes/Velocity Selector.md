@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 03/22/2022 23:19
 
-  #Physics 
+  
 
 - Also known as a Wein Filter. 
 - Two parallel plates of opposite charge create electromagnetic field between them

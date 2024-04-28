@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Power
+tags: [Circuit_Analysis, Physics]
 ---
 04/22/2022 15:10
 
-  #Circuit_Analysis, #Physics 
+ , 
 
 Power is defined as the amount of energy per second expended by a component, or the amount of [[Work]] done by the component. Therefore, if a component releases energy into the circuit its power will be negative, and if it absorbes energy, its power is positive. Its unit is defined as one joule per second or one Watt ($W$).
 

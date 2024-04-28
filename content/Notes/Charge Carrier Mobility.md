@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 04/01/2024 17:59
 
-  #Physics 
+  
 
 unit: $\text{cm}^2/\text{Vs}$
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Circuit_Analysis]
 ---
 03/27/2022 19:03
 
-  #Circuit_Analysis 
+  
 
 Thevenin's Theorem states that any linear circuit consisting of only [[Voltage]]/[[Current]] sources and resistors can be reduced to an equivalent circuit of one voltage source $V_{th}$ and one resistor $R_{th}$ in series accross a load [[Resistance]] $R_{load}$.
 

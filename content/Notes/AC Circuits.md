@@ -1,14 +1,15 @@
 ---
 type: note
+tags: [Physics, Circuit_Analysis]
 ---
 04/14/2022 12:39
 
-  #Physics, #Circuit_Analysis
+ 
 
 AC circuits are circuits with [[Alternating Current]] sources
 
 #### Power
-see [[Electrical Power#AC]]
+see [[Electrical Power#AC|AC Power]]
 
 #### Resistors
 For a resistor circuit, the [[Voltage]] and [[Current]] are in phase. Current through the resistor is given by:

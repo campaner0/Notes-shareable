@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, Statics]
 ---
 03/25/2022 18:21
 
-  #Physics, #Statics
+ ,
 
 Force is a [[Vector]] value that changes the motion of an object when applied. 
 

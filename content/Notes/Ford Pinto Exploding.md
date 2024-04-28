@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [ethics]
 ---
 08/14/2023 13:15
 
-  #ethics 
+  
 
 [[Engineering Ethics]] example
 

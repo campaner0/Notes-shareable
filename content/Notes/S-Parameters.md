@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Scattering Matrix
+tags: [Electromagnetics, Antennas]
 ---
 01/31/2024 15:50
 
-  #Electromagnetics #Antennas 
+  
 
 The elements of a scattering matrix, or S-Parameters, describe the ratio of reflected to injected power at each port of a certain load such as an antenna. 
 

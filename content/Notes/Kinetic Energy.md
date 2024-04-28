@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 05/10/2022 20:22
 
-  #Physics 
+  
 
 Kinetic energy is the [[Energy]] of motion, and is therefore related to [[Velocity]]. Formally, it is the [[Work]] done to accelerate an object to a certain velocity from rest. Units: Joule ($J$)
 

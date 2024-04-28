@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics]
 ---
 10/04/2022 17:36
 
-  #Electromagnetics 
+  
 
 The electric displacement field, or [[Electric Flux]] density, 
 

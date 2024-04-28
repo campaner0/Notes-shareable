@@ -2,10 +2,11 @@
 type: note
 aliases:
   - CR
+tags: [engineering_econ]
 ---
 10/24/2023 20:06
 
-  #engineering_econ 
+  
 
 Capital Recovery is the equivalent annual amount that an investment must earn each year to recover the initial cost and a stated [[Rate of Return|ROR]] over its expected life. 
 $$

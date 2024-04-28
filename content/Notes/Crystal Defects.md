@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Materials_Science]
 ---
 02/21/2024 17:49
 
-  #Materials_Science 
+  
 
 [[Crystal Structures]] are never perfect in real life, always having defects of one type or another. These defects are not always unwanted as defects and impurities change the properties of the material. 
 

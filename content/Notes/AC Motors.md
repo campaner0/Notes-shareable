@@ -1,10 +1,11 @@
 ---
 type: note
 alias: AC Motor
+tags: [Electric_Machines]
 ---
 02/23/2023 18:42
 
-  #Electric_Machines 
+  
 
 
 

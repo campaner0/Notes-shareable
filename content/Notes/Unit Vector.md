@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Unit Vectors
+tags: [math]
 ---
 05/24/2022 15:46
 
-  #math 
+  
 
 A unit vector is a [[Vector]] with [[Magnitude]] 1. The most basic are the standard unit vectors $\hat{i}, \hat j,\hat k$ (or $\hat x, \hat y, \hat z$) which point in the positive x, y, and z directions. Unit vectors are denoted with the hat mark.
 

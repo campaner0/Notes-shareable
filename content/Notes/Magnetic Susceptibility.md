@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 04/17/2024 18:11
 
-  #Physics 
+  
 
 
 

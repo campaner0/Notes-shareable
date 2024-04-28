@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics]
 ---
 10/06/2022 17:33
 
-  #Electromagnetics 
+  
 
 The magnetic vector potential is the magnetic equivalent of [[Voltage]], or electric potential. However, it is a vector field, not a scalar field like electric potential. It is defined such that:
 $$

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 09/07/2022 17:39
 
-  #Digital_Logic 
+  
 
 The consensus theorem is a [[Boolean Algebra]] theorem that states:
 $$

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 08/17/2022 17:03
 
-  #Digital_Logic 
+  
 
 ## Decimal to [[Binary]]
 Hard way

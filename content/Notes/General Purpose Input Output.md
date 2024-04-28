@@ -1,10 +1,11 @@
 ---
 type: note
 alias: GPIO
+tags: [Embeded_Systems]
 ---
 03/15/2023 14:45
 
-  #Embeded_Systems 
+  
 
 For microcontrollers, GPIO is used to communicate with any peripheral such as LEDs, buttons, sensors, etc. Any communication with users or other devices happens through a GPIO port. This can happen with port-mapped or memory-mapped I/O, memory-mapped I/O is more commonly used because of its flexibility. Port-mapped I/O must use a special [[Assembly]] instruction.
 

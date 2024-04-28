@@ -1,10 +1,11 @@
 ---
 type: note
 alias: RLC Circuit
+tags: [Circuit_Analysis, Physics]
 ---
 04/11/2022 15:05
 
-  #Circuit_Analysis, #Physics 
+ , 
 
 RLC circuits are circuits with resistors, capacitors, and inductors. They can be reduced to a single resistor, cap, and inductor. Its an LC circuit with a resistor ([[LC Circuits]]), which results in 
 damping. 

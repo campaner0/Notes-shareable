@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 08/23/2022 18:05
 
-  #math 
+  
 
 The directional [[Derivative]] of a scalar function along a [[Vector]] is the [[Dot Product]] of the function's [[Gradient]] and the [[Unit Vector]] in the direction of the vector:
 $$

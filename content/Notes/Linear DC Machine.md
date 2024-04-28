@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electric_Machines]
 ---
 01/24/2023 18:37
 
-  #Electric_Machines 
+  
 
 The linear DC machine operates based on the principle of the [[Electromagnetic Force#Magnetic Force on a Conductor|Magnetic Force on a Wire]] when current flows through it:
 

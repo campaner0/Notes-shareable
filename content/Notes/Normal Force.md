@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, math]
 ---
 07/20/2022 17:48
 
-  #Physics #math 
+  
 
 In Newtonian mechanics, the normal force is a [[Force]] perpendicular to the ground that keeps an object from sinking into it due to [[Gravity]]. More generally, it's the force that opposes the [[Acceleration]] of two objects into each other. 
 

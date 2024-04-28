@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 06/08/2022 19:06
 
-  #Physics 
+  
 
 Newton's laws describe the relationship between force and motion:
 

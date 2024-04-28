@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Power Density
+tags: [Physics, Electromagnetics]
 ---
 10/27/2022 17:37
 
-  #Physics #Electromagnetics 
+  
 
 The Poynting [[Vector]] denotes the direction and intensity (or power flow) of an [[Electromagnetic Wave]]. It has units of $\text{W/m}^2$, therefore it represents the power density of the wave. 
 $$

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 04/15/2024 17:34
 
-  #Physics 
+  
 
 fringe field - magnetic field that exists outside magnetic material
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Antennas]
 ---
 04/17/2024 16:19
 
-  #Antennas 
+  
 
 
 signal to noise ratio

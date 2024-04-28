@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 03/22/2022 23:24
 
-  #Physics 
+  
 
 A cyclotron is a type of particle accelerator. Charge enters [[Magnetic Field]], begins [[Circular Motion]] with increasing [[Velocity]] (and by extension radius) and period:
 $$

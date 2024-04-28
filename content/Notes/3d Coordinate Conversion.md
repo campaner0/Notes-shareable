@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 03/12/2024 17:56
 
-  #math 
+  
 
 Formulas for conversion between Cartesian Coordinates, [[Cylindrical Coordinates]], and [[Spherical Coordinates]]
 

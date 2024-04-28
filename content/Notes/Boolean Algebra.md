@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic, math]
 ---
 08/29/2022 17:53
 
-  #Digital_Logic, #math 
+ , 
 
 Boolean Algebra is a branch of algebra where the possible values of variables are true and false, often denoted as 1 and 0. Instead of addition and subtraction, the main operations are AND, OR, and NOT. (see [[Logical Operators]])
 

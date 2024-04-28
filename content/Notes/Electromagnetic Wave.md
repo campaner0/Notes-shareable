@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 04/19/2022 13:36
 
-  #Physics 
+  
 
 Also known as light, electromagnetic waves consist of a traveling [[Electric Field|Electric]] and [[Magnetic Field]]. The properties of the wave depend on the permittivity, permiability, and [[Conductivity]] of the medium it is traveling through. If the medium does not conduct, it is said to be lossless as it does not [[Attenuation|Attenuate]] the wave.
 

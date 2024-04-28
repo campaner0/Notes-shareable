@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electric_Machines]
 ---
 02/09/2023 22:21
 
-  #Electric_Machines 
+  
 
 The efficiency of an electric machine is given by:
 $$

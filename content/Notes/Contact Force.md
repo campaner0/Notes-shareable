@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics]
 ---
 07/20/2022 18:35
 
-  #Physics 
+  
 
 The contact forces are the [[Normal Force]] and [[Friction]], and only occur when two objects touch each other. 
 

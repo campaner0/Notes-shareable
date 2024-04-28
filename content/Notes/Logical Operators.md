@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Digital_Logic]
 ---
 08/17/2022 18:07
 
-  #Digital_Logic 
+  
 
 In [[Boolean Algebra]], the following logical operators are commonly used:
 

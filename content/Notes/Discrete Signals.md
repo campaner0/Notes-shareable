@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Discrete Signal
+tags: [Signals]
 ---
 03/22/2023 14:02
 
-  #Signals 
+  
 
 Discrete signals are a sequence of values that correspond to moments in time of an analog signal. These moments are the sample times, and the frequency of sample times is the sampling rate. The sampling rate must be greater than double the frequency of the analog signal to avoid aliasing (Nyquist Criteria). An analog signal must be converted to a discrete signal in order to transmit using [[Digital Modulation]].
 

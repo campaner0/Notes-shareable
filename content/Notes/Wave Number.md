@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Phase Constant
+tags: [Electromagnetics]
 ---
 12/05/2022 21:09
 
-  #Electromagnetics 
+  
 
 The wave number is the spatial frequency of a wave, or its cycles per unit distance. This is analogous to temporal [[Frequency]], or cycles per unit time. It is defined as:
 $$

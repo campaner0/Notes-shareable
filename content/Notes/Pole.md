@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 08/28/2023 14:44
 
-  #math 
+  
 
 A pole is a type of [[Singularity]] in a complex function. The poles of a function $f$ are the [[Zero|Zeros]] of $1/f$ and vice versa. 
 

@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/16/2022 21:16
 
-  #math 
+  
 
 In linear algebra, a [[Subset]] of a [[Vector Space]] $V$ is a vector subspace $H$ of $V$ if:
 

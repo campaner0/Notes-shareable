@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics, Antennas]
 ---
 02/14/2024 13:42
 
-  #Electromagnetics #Antennas 
+  
 
 1. convert load impedance to admittance and normalize
 2. plot load admittance on smith chart

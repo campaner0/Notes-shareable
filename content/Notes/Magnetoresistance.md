@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Physics, Materials_Science]
 ---
 04/22/2024 14:01
 
-  #Physics #Materials_Science 
+  
 
 magnetoresistance is the change in resistance under mag field
 

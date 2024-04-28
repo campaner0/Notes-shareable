@@ -1,10 +1,11 @@
 ---
 type: note
 alias: MOSFETs
+tags: [Semiconductor_Devices, Digital_Logic, Circuit_Analysis]
 ---
 11/09/2022 17:33
 
-  #Semiconductor_Devices #Digital_Logic #Circuit_Analysis 
+  
 
 MOSFETs, or metal oxide semiconductor field effect transistors, are three terminal devices like [[BJT]]s, but, unlike them, only two of the terminals are connected to the semiconductor material. The third is insulated from the silicon by an oxide layer. This third terminal is voltage biased to such that the [[Electric Field]] draws charge carriers from the silicon to the oxide barrier, effectively inverting the type of silicon just under the oxide, which bridges the gap between the other two terminals. This allows current to flow between them.
 

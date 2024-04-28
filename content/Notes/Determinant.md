@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [math]
 ---
 11/17/2022 18:22
 
-  #math 
+  
 
 The determinant of a square [[Matrix]] $A$ is a scalar value derived from the elements of the matrix. If the determinant of $A$ is nonzero, $A$ is invertible according to the [[Invertible Matrix Theorem]]. 
 

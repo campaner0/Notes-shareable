@@ -1,10 +1,11 @@
 ---
 type: note
 alias: Resistor
+tags: [Materials_Science]
 ---
 01/19/2023 19:12
 
-  #Materials_Science 
+  
 
 
 
