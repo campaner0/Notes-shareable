@@ -3,7 +3,7 @@ type: note
 ---
 08/31/2022 17:37
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 DeMorgan's throrem is a [[Boolean Algebra]] theorem that states:
 $$

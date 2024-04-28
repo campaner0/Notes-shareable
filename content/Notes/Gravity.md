@@ -3,7 +3,7 @@ type: note
 ---
 03/25/2022 18:26
 
-Tags: #Physics 
+  #Physics 
 
 One of [[The Four Fundamental Interactions]], gravity is the phenomenon in which all things with [[Mass]] or [[Energy]] experience an attraction to each other. While [[Special Relativity]] provides the most accurate description, Newton's law of gravity is used in most cases. 
 

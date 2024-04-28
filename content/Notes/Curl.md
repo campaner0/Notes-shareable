@@ -3,7 +3,7 @@ type: note
 ---
 08/23/2022 17:41
 
-Tags: #math #Electromagnetics 
+  #math #Electromagnetics 
 
 The curl of a vector field is the circulation per unit area of the region whose contour has the maximum [[Circulation]]:
 $$

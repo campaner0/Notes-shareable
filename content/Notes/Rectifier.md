@@ -4,7 +4,7 @@ alias: Rectifiers
 ---
 02/14/2023 10:14
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 Rectifiers are circuits that "rectify" an [[Alternating Current|AC]] input to an approximate DC output. 
 

@@ -3,7 +3,7 @@ type: note
 ---
 03/23/2022 18:24
 
-Tags: #Physics, #Statics 
+  #Physics, #Statics 
 
 Also known as Moment, torque is essentially rotational [[Force]]. Just as force produces change in the linear motion of an object, torque produces change in the [[Circular Motion]] of an object. Similarly to force, the integral of torque is [[Work]], and its derivative is [[Angular Momentum]]. (Units: Newton Meters: $N\cdot m$)
 

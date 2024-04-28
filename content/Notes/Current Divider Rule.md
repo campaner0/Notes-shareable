@@ -3,7 +3,7 @@ type: note
 ---
 03/21/2022 14:41
 
-Tags: #Circuit_Analysis , #Physics 
+  #Circuit_Analysis , #Physics 
 
 The current divider rule is used to calculate the current passing through one branch of a parallel resistive circuit
 

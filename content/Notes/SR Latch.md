@@ -3,7 +3,7 @@ type: note
 ---
 10/12/2022 17:26
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 The SR Latch is a storage circuit comprised of two cross-coupled [[Logical Operators#NOR|NOR]] gates:
 

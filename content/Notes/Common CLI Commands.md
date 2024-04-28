@@ -7,7 +7,7 @@ tags:
 ---
 04/27/2024 22:19
 
-Tags: #computer_engineering #computer_science #reference
+  #computer_engineering #computer_science #reference
 
 stolen from https://aws.amazon.com/what-is/cli/
 

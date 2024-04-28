@@ -3,7 +3,7 @@ type: note
 ---
 04/15/2024 17:34
 
-Tags: #Physics 
+  #Physics 
 
 fringe field - magnetic field that exists outside magnetic material
 

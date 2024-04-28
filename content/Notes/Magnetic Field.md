@@ -4,7 +4,7 @@ alias: Magnetic Flux Density
 ---
 03/22/2022 12:33
 
-Tags: #Physics #Circuit_Analysis #Electromagnetics #Electric_Machines 
+  #Physics #Circuit_Analysis #Electromagnetics #Electric_Machines 
 
 The magnetic field is a [[Vector Field]] which describes the magnetic influence on moving charges, [[Current]]s, and magnetic materials. Two distinct but closely related fields may be described by the term "magnetic field". These are the $\vec{B}$ and $\vec{H}$ fields. In mediums where the two are directly proportional, they are related through the permeability of the medium:
 $$

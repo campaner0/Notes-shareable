@@ -7,7 +7,7 @@ aliases:
 ---
 11/16/2022 11:32
 
-Tags: #math 
+  #math 
 
 A [[Function]] is one-to-one (1-1), or injective, if for every possible output there is at most one corresponding input. That is, the function maps distinct inputs to distinct outputs. This implies:
 $$

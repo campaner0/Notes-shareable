@@ -3,7 +3,7 @@ type: note
 ---
 02/09/2023 18:56
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 An open circuit test is performed on the    [[Voltage]] side of a [[Transformer]] to find the core 
 $$\begin{align*}

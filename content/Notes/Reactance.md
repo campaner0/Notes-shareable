@@ -3,7 +3,7 @@ type: note
 ---
 04/14/2022 13:47
 
-Tags: #Physics #Circuit_Analysis 
+  #Physics #Circuit_Analysis 
 
 Reactance is the non-resistive opposition to [[Alternating Current|AC]] current flow presented by the inductance and capacitance of circuit elements. Unlike resistance, energy is stored then released by the circuit element after a quarter cycle instead of being dissipated as heat. Therefore, reactance is responsible for the phase change effect of inductive and capacitive circuit elements. The total reactance of a circuit is the sum of the total inductive and capacitive reactances present:
 $$

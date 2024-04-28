@@ -3,7 +3,7 @@ type: note
 ---
 03/29/2022 13:30
 
-Tags: #Physics 
+  #Physics 
 
 Similarly to [[Electric Flux]], magnetic flux is the magnetic field through a certain area. For an enclosed area this is described by the product of the magnetic field and area. Units: Weber ($Wb$)
 $$

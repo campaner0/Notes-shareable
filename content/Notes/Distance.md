@@ -3,7 +3,7 @@ type: note
 ---
 10/24/2022 21:40
 
-Tags: #math #Physics 
+  #math #Physics 
 
 The Euclidean distance between two points is defined as the length of a straight line that connects the two points. On a plane, the distance between two points is given by:
 $$

@@ -3,7 +3,7 @@ type: note
 ---
 11/01/2023 12:36
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 Benefit cost analysis is used mostly by the public sector and non-profits. These projects are generally longer term and funded by taxes, bonds, and fees. They are politically driven rather than economically driven.
 

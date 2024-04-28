@@ -3,7 +3,7 @@ type: note
 ---
 11/16/2022 22:03
 
-Tags: #math 
+  #math 
 
 In linear algebra, a set of [[Vector|Vectors]] $B=\{b_1,b_2,\cdots,b_p\}$ in a [[Vector Space]] $V$ is the basis for $V$ if 
 

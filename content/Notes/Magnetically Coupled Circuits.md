@@ -4,7 +4,7 @@ alias: Magnetic Circuits
 ---
 10/10/2022 16:18
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 A magnetically coupled circuit is a circuit that uses [[Inductance#Mutual Inductance|Mutual Inductance]] to create a complete circuit. Magnetic circuits model the behavior of magnetic flux through a closed loop. Similarly to how a [[Voltage]] source induces [[Current]] in an electric circuit, the current through a coil induces a flux through a magnetic core, and another coil may resist the flux created by the first. Therefore, it is possible to draw a magnetic circuit in the same way an electric circuit is drawn, even using the same symbols. A [[Transformer]] is a common usecase. 
 

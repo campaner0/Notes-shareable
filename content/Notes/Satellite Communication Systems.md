@@ -3,7 +3,7 @@ type: note
 ---
 04/17/2024 16:19
 
-Tags: #Antennas 
+  #Antennas 
 
 
 signal to noise ratio

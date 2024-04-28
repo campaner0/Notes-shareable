@@ -3,7 +3,7 @@ type: note
 ---
 02/05/2024 17:29
 
-Tags: #Electromagnetics 
+  #Electromagnetics 
 
 [[Microwaves]]
 - High voltage applied across anode, cathode cause cathode to emit e-

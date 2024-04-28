@@ -3,7 +3,7 @@ type: note
 ---
 09/21/2022 17:12
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 A half adder adds the bits of a two bit [[Binary]] number 
 

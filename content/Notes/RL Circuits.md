@@ -3,7 +3,7 @@ type: note
 ---
 03/21/2022 14:46
 
-Tags: #Circuit_Analysis, #Physics 
+  #Circuit_Analysis, #Physics 
 
 Circuit made up of only resistors and inductors (and source)
 These can be reduced to an equivalent circuit with one inductor ($I_{eq}$) and one resistor ($R_{eq}$)

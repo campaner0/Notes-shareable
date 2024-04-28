@@ -4,7 +4,7 @@ alias: Phase
 ---
 02/02/2023 16:43
 
-Tags: #math #Physics #Circuit_Analysis #Electromagnetics 
+  #math #Physics #Circuit_Analysis #Electromagnetics 
 
 In time domain the phase shift between two waves is the time difference between the same point on the waves divided by the period
 $$

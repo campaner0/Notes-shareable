@@ -3,7 +3,7 @@ type: note
 ---
 03/18/2024 18:03
 
-Tags: 
+  
 
 $$\begin{array}{ccc}
 V_{H}= \frac{R_{H}IB}{d}

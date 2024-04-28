@@ -4,7 +4,7 @@ alias: AM
 ---
 02/16/2023 10:15
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 When communicating with [[Electromagnetic Wave]]s, the amplitude of the wave may be varied, or modulated, in a certain way to encode information. This is done on a high [[Frequency]] carrier wave, and the rate at which the amplitude of the carrier wave changes is called the envelope, which is the encoded signal. 
 

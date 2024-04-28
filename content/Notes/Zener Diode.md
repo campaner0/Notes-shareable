@@ -3,7 +3,7 @@ type: note
 ---
 02/16/2023 10:35
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 The Zener diode is a type of [[P-N Junction Diode]] which 
 

@@ -3,7 +3,7 @@ type: note
 ---
 03/21/2022 14:41
 
-Tags: #Circuit_Analysis, #Physics 
+  #Circuit_Analysis, #Physics 
 
 The voltage divider rule is used to calculate the voltage across a component in a resistive series circuit.
 

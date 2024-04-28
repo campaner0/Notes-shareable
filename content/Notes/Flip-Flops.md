@@ -3,7 +3,7 @@ type: note
 ---
 10/17/2022 17:49
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 A flip-flop is the extension of latches to work with a clock pulse. They are constructed with a D Latch and an [[SR Latch]]:
 

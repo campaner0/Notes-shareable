@@ -3,7 +3,7 @@ type: note
 ---
 04/15/2022 14:29
 
-Tags: #Physics 
+  #Physics 
 
 Gauss's Law states that the [[Electric Flux]] out of an arbitrary closed surface is proportional to the charge inside the surface. 
 

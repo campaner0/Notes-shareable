@@ -3,7 +3,7 @@ type: note
 ---
 03/14/2023 18:45
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 
 The equivalent circuit of a three phase [[Synchronous Generators|Synchronous Generator]] is shown below. 

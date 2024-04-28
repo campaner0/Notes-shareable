@@ -3,7 +3,7 @@ type: note
 ---
 09/07/2022 17:47
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 In [[Boolean Algebra]], a function in sum of products form is arranged such that the variables in each term are are only multiplied and each term is summed:
 $$

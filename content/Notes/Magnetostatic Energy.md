@@ -3,7 +3,7 @@ type: note
 ---
 04/17/2024 17:24
 
-Tags: #Physics 
+  #Physics 
 
 
 The energy stored by an inductor in its mag field is expressed by:

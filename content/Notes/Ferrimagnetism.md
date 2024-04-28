@@ -5,7 +5,7 @@ aliases:
 ---
 04/15/2024 17:11
 
-Tags: #Physics 
+  #Physics 
 
 Not to be confused with [[Ferromagnetism]], 
 

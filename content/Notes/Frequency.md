@@ -3,7 +3,7 @@ type: note
 ---
 01/17/2023 18:42
 
-Tags: #Physics #Circuit_Analysis #Digital_Logic #Electromagnetics #Electric_Machines #math #Signals #comunication_systems #Control_Systems 
+  #Physics #Circuit_Analysis #Digital_Logic #Electromagnetics #Electric_Machines #math #Signals #comunication_systems #Control_Systems 
 
 Frequency is how quickly a repeating event occurs. A higher frequency means the event occurs more often per unit of [[Time]]. It is measured in Hertz (Hz) which measures events per second. [[Angular Velocity|Angular Frequency]] is frequency scaled by $2\pi$ to measure radians per second.
 

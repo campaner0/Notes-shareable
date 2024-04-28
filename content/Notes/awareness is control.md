@@ -3,7 +3,7 @@ type: musing
 ---
 10/17/2023 22:27
 
-Tags: 
+  
 
 When it comes to internal matters, control over one's actions and thoughts can only be achieved if one is aware that they are happening. If someone is craving junk food, distraction from the craving often leads to giving in. A better strategy is to pay [[attention]] to how you are feeling and why you feel this way. As more attention is given, understanding increases and the craving's power is diminished. 
 

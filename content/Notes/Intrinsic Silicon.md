@@ -3,7 +3,7 @@ type: note
 ---
 03/20/2024 14:59
 
-Tags: #Semiconductor_Devices 
+  #Semiconductor_Devices 
 
 - 4 valence e-
 - Bonds covalently

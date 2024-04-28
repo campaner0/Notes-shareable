@@ -3,7 +3,7 @@ type: note
 ---
 11/02/2022 15:45
 
-Tags: #math 
+  #math 
 
 Partial fraction decomposition is an algebraic process to separate a ratio of two polynomials into the sum of two or more ratios with simpler numerators ($P(x)$) and denominators ($Q(x)$) which are factors of the original denominator. There is a different process for the different combinations of order of numerator and denominator:
 

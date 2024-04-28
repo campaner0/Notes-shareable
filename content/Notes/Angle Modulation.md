@@ -7,7 +7,7 @@ aliases:
 ---
 08/14/2023 15:10
 
-Tags: #comunication_systems #Signals 
+  #comunication_systems #Signals 
 
 Angle modulation, as opposed to [[Amplitude Modulation|AM]], is the varying of the [[Phase Angle|Phase]] of a signal to communicate info. 
 

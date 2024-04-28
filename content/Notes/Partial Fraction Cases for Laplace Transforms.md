@@ -3,7 +3,7 @@ type: note
 ---
 11/02/2022 16:35
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 When solving differential equations using [[Laplace Transform|Laplace Transforms]] during circuit analysis, when returning to the time domain, the equation may not be in one of the forms on the table. It may be converted into one of these forms if it is in one of the following forms:
 

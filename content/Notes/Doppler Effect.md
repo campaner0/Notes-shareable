@@ -3,7 +3,7 @@ type: note
 ---
 04/22/2024 16:07
 
-Tags: 
+  
 
 
 received signal frequency is sum of transmitted and doppler freq

@@ -3,7 +3,7 @@ type: note
 ---
 08/23/2022 17:30
 
-Tags: #math 
+  #math 
 
 The spherical coordinate system is a 3d coordinate system which determines the [[Position]] of a point $P$ in space using radial [[Distance]] from the origin and the polar (elevation) and azimuthal [[Angle|Angles]] of a line which intersects the origin and the point. 
 

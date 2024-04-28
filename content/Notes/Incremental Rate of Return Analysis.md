@@ -5,7 +5,7 @@ aliases:
 ---
 10/24/2023 20:54
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 Selecting an investment with the highest [[Rate of Return|ROR]] may not yield the highest return if the investment amount is not the same as the available capital. The [[Weighted Average]] of total availible capital must be considered. Uninvested capital is assumed to earn interest at [[Minimum Attractive Rate of Return|MARR]].
 

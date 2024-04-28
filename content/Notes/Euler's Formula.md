@@ -4,7 +4,7 @@ alias: Euler's Identity
 ---
 01/23/2023 13:32
 
-Tags: #math 
+  #math 
 
 Euler's Formula relates the trigonometric functions to the complex exponential function:
 $$

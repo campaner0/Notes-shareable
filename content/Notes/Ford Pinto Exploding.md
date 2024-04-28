@@ -3,7 +3,7 @@ type: note
 ---
 08/14/2023 13:15
 
-Tags: #ethics 
+  #ethics 
 
 [[Engineering Ethics]] example
 

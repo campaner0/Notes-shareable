@@ -3,7 +3,7 @@ type: note
 ---
 11/17/2023 19:45
 
-Tags: #psychology 
+  #psychology 
 
 The computational theory of mind, or CTM, (not to be confused with the [[Computational Theory of Cognition]]) describes the human mind as an information processing system and posits that cognition and consciousness are a form of computation. Not just that the mind is analogous to a computer program, but that it *is* a computational system. 
 

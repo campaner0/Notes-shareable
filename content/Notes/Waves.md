@@ -5,7 +5,7 @@ aliases:
 ---
 03/25/2022 17:57
 
-Tags: #Physics 
+  #Physics 
 
 
 [[Wave Propagation]]

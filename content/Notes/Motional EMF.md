@@ -3,7 +3,7 @@ type: note
 ---
 10/13/2022 17:42
 
-Tags: #Electromagnetics 
+  #Electromagnetics 
 
 Motional emf is the [[Voltage]] induced in a moving conductor with a [[Time]] varying surface area in a static magnetic field. This is described by:
 $$

@@ -6,7 +6,7 @@ aliases:
 ---
 09/14/2022 10:40
 
-Tags: #Linear_Algebra 
+  #Linear_Algebra 
 
 In linear algebra, a system of equations may be consistent or inconsistent.
 

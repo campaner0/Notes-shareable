@@ -3,7 +3,7 @@ type: note
 ---
 08/17/2022 18:07
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 In [[Boolean Algebra]], the following logical operators are commonly used:
 

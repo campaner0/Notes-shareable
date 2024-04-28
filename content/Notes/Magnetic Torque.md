@@ -3,7 +3,7 @@ type: note
 ---
 09/27/2022 17:25
 
-Tags: #Electromagnetics 
+  #Electromagnetics 
 
 Given a rectangular current loop in a uniform [[Magnetic Field]], when a current is applied, the magnetic [[Torque]] is the [[Cross Product]] of the magnetic moment [[Vector]] and B field:
 $$

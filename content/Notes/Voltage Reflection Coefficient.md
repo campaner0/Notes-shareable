@@ -3,7 +3,7 @@ type: note
 ---
 11/10/2022 17:25
 
-Tags: #Electromagnetics 
+  #Electromagnetics 
 
 The voltage reflection coefficient is the ratio of the amplitudes of the reflected and incident voltage waves at the load of a [[Transmission Lines|Transmission Line]] circuit:
 $$\begin{align*}

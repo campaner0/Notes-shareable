@@ -3,7 +3,7 @@ type: note
 ---
 01/17/2024 17:30
 
-Tags: #Chemistry 
+  #Chemistry 
 
 Atomic weight is the average weighted sum of all its naturally occurring isotopes. Therefore:
 $$

@@ -5,4 +5,4 @@ aliases:
 ---
 10/24/2023 21:55
 
-Tags: #math 
+  #math 

@@ -3,10 +3,11 @@ type: note
 aliases:
   - Atom
   - Atoms
+tags: [Physics, Chemistry]
 ---
 01/10/2024 17:35
 
-Tags: #Physics #Chemistry
+ 
 
 - 400 BC: Democritus forms concept of atom, called Atomos meaning indivisible
 	- smallest possible piece of matter

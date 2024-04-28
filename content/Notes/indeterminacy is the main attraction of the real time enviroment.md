@@ -5,7 +5,7 @@ aliases:
 ---
 07/19/2023 16:59
 
-Tags: 
+  
 
 Found in Derek Holzer's [[Vector Synthesis]], pages 30-31
 

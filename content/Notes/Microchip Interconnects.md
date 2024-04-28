@@ -3,7 +3,7 @@ type: note
 ---
 03/27/2024 18:11
 
-Tags: #Semiconductor_Devices 
+  #Semiconductor_Devices 
 
 
 capacitance of interconnects

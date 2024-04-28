@@ -3,7 +3,7 @@ type: note
 ---
 11/29/2022 12:12
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 The bandwidth of a [[RLC Resonance|Resonant RLC Circuit]] is the width of the portion of the [[Response Curve]] of the circuit that is $\ge$ the maximum, or the difference of the half-power frequencies:
 $$\begin{align*}

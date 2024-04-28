@@ -3,7 +3,7 @@ type: note
 ---
 02/09/2023 18:51
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 ![[Pasted image 20230209185221.png]]
 

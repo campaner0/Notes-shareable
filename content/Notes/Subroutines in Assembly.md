@@ -3,7 +3,7 @@ type: note
 ---
 02/22/2023 14:42
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 
 

@@ -4,7 +4,7 @@ alias: Arbitrary Periodic Functions
 ---
 04/26/2023 13:54
 
-Tags: #Signals 
+  #Signals 
 
 The equation for a periodic function with an arbitrary waveform can be formed by summing sections of another function which have been shifted along the horizontal axis. The desired waveform can be selected from a function using a difference of [[Step Function]]s, and then the sections are summed such that the nth period is the chosen section shifted by n periods:
 

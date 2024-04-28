@@ -3,7 +3,7 @@ type: note
 ---
 02/24/2023 14:34
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 The stack is used to save the contents of the registers at the start of a [[Function|Subroutine]] so that the registers may be used by the function. The contents are restored after. It may also be used to pass more arguments than r0-r4 can hold or to save the contents of the registers in the event of an interrupt. The stack operates in a last-in-first-out model. Only the item most recently added may be accessed. 
 

@@ -4,7 +4,7 @@ alias: Resistor
 ---
 01/19/2023 19:12
 
-Tags: #Materials_Science 
+  #Materials_Science 
 
 
 

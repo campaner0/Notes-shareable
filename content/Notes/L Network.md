@@ -3,7 +3,7 @@ type: note
 ---
 02/14/2024 13:32
 
-Tags: #Electromagnetics #Antennas 
+  #Electromagnetics #Antennas 
 
 1. start from load impedance on smith chart
 2. add cap or inductor to move to 1 (center)

@@ -3,7 +3,7 @@ type: note
 ---
 03/20/2022 17:50
 
-Tags: #Circuit_Analysis #Physics 
+  #Circuit_Analysis #Physics 
 
 
 $$

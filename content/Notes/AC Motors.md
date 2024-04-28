@@ -4,7 +4,7 @@ alias: AC Motor
 ---
 02/23/2023 18:42
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 
 

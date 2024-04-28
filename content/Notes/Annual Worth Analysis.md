@@ -6,7 +6,7 @@ aliases:
 ---
 10/04/2023 12:49
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 In annual worth analysis, the cost of an investment is converted to [[Annual Payments]] over the lifetime of the investment. A is the same for repeated life cycles, all cash flows adjusted only for inflation. An investment is justified if AW $\ge$ 0 at the [[Minimum Attractive Rate of Return|MARR]].
 

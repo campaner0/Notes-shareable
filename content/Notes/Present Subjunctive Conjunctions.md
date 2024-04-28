@@ -3,7 +3,7 @@ type: note
 ---
 01/16/2024 19:15
 
-Tags: #Spanish 
+  #Spanish 
 
 >[!note]
 >This note was imported from OneNote

@@ -4,7 +4,7 @@ alias: Superposition
 ---
 03/19/2022 17:38
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 [[Current]] through or [[Voltage]] across component can be found by summing current/voltage at component due to each source
 $$

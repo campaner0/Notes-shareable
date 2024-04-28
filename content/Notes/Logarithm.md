@@ -3,7 +3,7 @@ type: note
 ---
 08/29/2023 14:45
 
-Tags: #math 
+  #math 
 
 A logarithm is a sort of anti-[[Exponent]]. A base $b$ log of a number $a$ will result in the power $c$ to which $b$ must be raised to equal $a$:
 $$

@@ -3,7 +3,7 @@ type: note
 ---
 03/25/2024 17:33
 
-Tags: 
+  
 
 Thermionic Emission Gun (TEG)
 - tungsten filament resistively heated until work function overcome

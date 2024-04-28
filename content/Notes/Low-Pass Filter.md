@@ -3,7 +3,7 @@ type: note
 ---
 09/06/2023 14:47
 
-Tags: #comunication_systems #Circuit_Analysis 
+  #comunication_systems #Circuit_Analysis 
 
 A low-pass filter will [[Filters|Filter]] out frequencies above the corner [[Frequency]]. 
 

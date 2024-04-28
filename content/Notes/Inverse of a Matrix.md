@@ -3,7 +3,7 @@ type: note
 ---
 11/16/2022 12:25
 
-Tags: #math 
+  #math 
 
 If $A$ is a square ($n\times n$) [[Matrix]] and there exists a matrix $B$ such that 
 $$

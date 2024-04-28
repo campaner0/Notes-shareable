@@ -3,7 +3,7 @@ type: note
 ---
 01/25/2023 14:48
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 ARM processors may support different [[Assembly]] instruction sets, which describe the commands the [[CPU]] can execute. 
 

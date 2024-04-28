@@ -3,7 +3,7 @@ type: note
 ---
 02/09/2023 18:56
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 
 $$\begin{align*}

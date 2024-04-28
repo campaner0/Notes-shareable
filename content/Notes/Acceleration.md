@@ -3,7 +3,7 @@ type: note
 ---
 03/25/2022 18:15
 
-Tags: #Physics
+  #Physics
 
 Acceleration is a [[Vector]] quantity defined as the [[Derivative]] of [[Velocity]] and the second derivative of [[Position]]. Units: meters per second squared ($m/s^2$)
 $$

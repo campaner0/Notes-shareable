@@ -3,7 +3,7 @@ type: note
 ---
 11/17/2022 17:24
 
-Tags: #math 
+  #math 
 
 If a [[Vector Space]] $V$ is [[Span|Spanned]] by a finite set, $V$ is finite-dimensional, and the dimension of $V$ is the number of vectors in the [[Basis]] of $V$.
 

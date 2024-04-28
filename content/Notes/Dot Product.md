@@ -3,7 +3,7 @@ type:
 ---
 08/18/2022 17:39
 
-Tags: #math 
+  #math 
 
 The dot product of two [[Vector]]s is the sum of the products of each component:
 $$

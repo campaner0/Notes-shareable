@@ -3,7 +3,7 @@ type: note
 ---
 01/15/2024 20:09
 
-Tags: #History 
+  #History 
 
 >[!note]
 >This note was imported from OneNote 

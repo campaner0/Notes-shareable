@@ -4,7 +4,7 @@ aliases: []
 ---
 12/13/2023 16:59
 
-Tags: #History #Georgia 
+  #History #Georgia 
 
 
 ## Pre-Colonial

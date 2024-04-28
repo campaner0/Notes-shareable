@@ -3,7 +3,7 @@ type: note
 ---
 04/14/2022 12:39
 
-Tags: #Physics, #Circuit_Analysis
+  #Physics, #Circuit_Analysis
 
 AC circuits are circuits with [[Alternating Current]] sources
 

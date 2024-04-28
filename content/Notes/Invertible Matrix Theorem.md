@@ -3,7 +3,7 @@ type: note
 ---
 11/16/2022 12:03
 
-Tags: #math 
+  #math 
 
 Given a $n\times n$ [[Matrix]] $A$, the following statements are equivalent:
 

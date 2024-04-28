@@ -3,7 +3,7 @@ type: note
 ---
 04/19/2022 13:06
 
-Tags: #Physics 
+  #Physics 
 
 Ampere's Law states that the contour integral of the [[Magnetic Field]] around a loop is equal to the total current as the sum of real and displacement current within the Amperian loop, if current is constant. This is given by:
 $$

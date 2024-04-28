@@ -5,7 +5,7 @@ aliases:
 ---
 01/11/2023 14:50
 
-Tags: #Embeded_Systems
+  #Embeded_Systems
 
 
 

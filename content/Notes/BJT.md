@@ -4,7 +4,7 @@ alias: Bipolar Junction Transistor
 ---
 02/28/2023 10:12
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 A BJT, or bipolar junction [[Transistor]], has three terminals: collector, base, and emitter. They come in p-type and n-type like [[MOSFET]]s, but have a different construction and behavior. Unlike the MOSFET, the base terminal is connected directly to the junction. This makes it a current controlled current device.
 

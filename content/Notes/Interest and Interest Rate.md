@@ -4,7 +4,7 @@ alias: Interest, Interest Rate
 ---
 08/16/2023 12:53
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 Interest is the fee that one pays to use another's money. This is the effect of the [[Time Value of Money]]. It is calculated as a percentage of principle:
 $$

@@ -3,7 +3,7 @@ type: note
 ---
 02/19/2024 17:09
 
-Tags: #Physics #Materials_Science 
+  #Physics #Materials_Science 
 
 
 - tungsten filament heated, emits e- via thermionic emission

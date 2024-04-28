@@ -3,7 +3,7 @@ type: note
 ---
 10/24/2022 22:02
 
-Tags: #math 
+  #math 
 
 The principal unit normal vector is a [[Unit Vector]] that is normal to a curve at a point $t$ such that:
 $$

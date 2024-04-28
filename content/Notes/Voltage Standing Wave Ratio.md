@@ -3,7 +3,7 @@ type: note
 ---
 01/22/2024 17:10
 
-Tags: #Electromagnetics #Antennas 
+  #Electromagnetics #Antennas 
 
 The standing wave ratio for a certain [[Transmission Lines|Transmission Line]] voltage measures how well the load matches the line. It is the ratio of the maximum and minimum amplitudes of the voltage wave:
 $$\begin{align*}

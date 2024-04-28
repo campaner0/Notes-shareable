@@ -3,7 +3,7 @@ type: note
 ---
 08/30/2023 12:57
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 In an arithmetic gradient, cash flow changes by the same amount each year, as opposed to a percentage like a [[Geometric Gradient]]. That is, the difference between consecutive terms is the same. It may start at a base amount which may be different than the gradient amount.
 

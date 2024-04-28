@@ -3,7 +3,7 @@ type: note
 ---
 02/15/2023 15:10
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 
 ## Example Program

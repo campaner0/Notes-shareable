@@ -3,7 +3,7 @@ type: note
 ---
 08/17/2022 17:03
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 ## Decimal to [[Binary]]
 Hard way

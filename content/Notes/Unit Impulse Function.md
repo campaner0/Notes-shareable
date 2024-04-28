@@ -6,7 +6,7 @@ aliases:
 ---
 10/31/2022 20:58
 
-Tags: #math #Circuit_Analysis 
+  #math #Circuit_Analysis 
 
 The unit impulse function is a "function" that has zero as its output for every input but one ($t_0$), where it is nonzero
 $$\delta(t-t_0)

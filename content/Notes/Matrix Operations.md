@@ -3,7 +3,7 @@ type: note
 ---
 12/14/2022 17:42
 
-Tags: #math 
+  #math 
 
 Matrix operations are opertions involving two [[Matrix|Matrices]] or a scalar and a matrix.
 

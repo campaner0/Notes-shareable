@@ -3,7 +3,7 @@ type: note
 ---
 09/19/2022 17:18
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 Decoding is the conversion of an $n$ bit code to a $m$ bit output code such that each input code produces a unique output. An $n$-bit input code can represent up to $2^n$ outputs 
 $$

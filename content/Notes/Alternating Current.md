@@ -4,7 +4,7 @@ alias: AC
 ---
 03/28/2022 14:41
 
-Tags: #Circuit_Analysis
+  #Circuit_Analysis
 
 An oscillating [[Current]] source will produce a current that is described by a sinusoidal function:
 $$

@@ -5,7 +5,7 @@ aliases:
 ---
 04/04/2022 14:29
 
-Tags: #Physics, #Circuit_Analysis 
+  #Physics, #Circuit_Analysis 
 
 Also known as angular frequency, angular velocity is the rotational equivalent to frequency.
 $$

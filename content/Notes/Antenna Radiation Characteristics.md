@@ -3,7 +3,7 @@ type: note
 ---
 02/07/2024 15:50
 
-Tags: #Electromagnetics #Antennas 
+  #Electromagnetics #Antennas 
 
 An antenna's intensity of radiation in three dimensions is called its antenna pattern, and this directional pattern is described in terms of the normalized radiation intensity:
 $$

@@ -3,7 +3,7 @@ type: note
 ---
 04/15/2022 14:27
 
-Tags: #Physics 
+  #Physics 
 
 Electric flux is the measure of [[Electric Field]] strength through a given surface. Though the electric field does not flow, it is still useful to define the magnitude of the field as [[Flux]]. 
 

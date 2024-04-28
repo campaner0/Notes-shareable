@@ -3,7 +3,7 @@ type: note
 ---
 08/24/2022 17:47
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 Binary coded decimal uses a four digit [[Binary]] number for each digit of a [[Decimal]] number
 

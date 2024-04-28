@@ -6,7 +6,7 @@ aliases:
 ---
 02/01/2023 13:47
 
-Tags: #Circuit_Analysis #Signals
+  #Circuit_Analysis #Signals
 
 Decibels are a logarithmic scale used to measure the intensity of sound or power level of a signal. One decibel ($dB$) is a tenth of a bel ($B$), named in honor of [[Alexander Graham Bell]]. It is the ratio of a power (or power root) quantity and a reference, e.g. a gain. To express a ratio in decibels, use the following formula:
 $$

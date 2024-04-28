@@ -3,7 +3,7 @@ type: note
 ---
 08/16/2022 17:40
 
-Tags: #Electromagnetics, #Physics 
+  #Electromagnetics, #Physics 
 
 The four fundamental interactions, or forces, are:
 

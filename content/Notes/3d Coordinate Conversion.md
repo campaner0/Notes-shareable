@@ -3,7 +3,7 @@ type: note
 ---
 03/12/2024 17:56
 
-Tags: #math 
+  #math 
 
 Formulas for conversion between Cartesian Coordinates, [[Cylindrical Coordinates]], and [[Spherical Coordinates]]
 

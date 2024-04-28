@@ -3,7 +3,7 @@ type: note
 ---
 03/21/2022 17:36
 
-Tags: #Physics, #math, #Statics 
+  #Physics, #math, #Statics 
 
 The position [[Vector]] (denoted as $\vec r$ or $\vec x$) represents the location of a point in space relative to the origin. Also known as displacement. [[Velocity]] is the derivative of position, and [[Acceleration]] is its second derivative. 
 

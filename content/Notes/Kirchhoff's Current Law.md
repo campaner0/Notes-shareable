@@ -4,7 +4,7 @@ alias: KCL
 ---
 03/20/2022 17:39
 
-Tags: #Circuit_Analysis, #Physics 
+  #Circuit_Analysis, #Physics 
 
 Kirchhoff's Current Law states that [[Current]] flowing into a node equals current flowing out
 $$

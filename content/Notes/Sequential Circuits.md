@@ -3,7 +3,7 @@ type: note
 ---
 10/24/2022 17:42
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 A sequential circuit is a circuit in which both the outputs and next state of the circuit depend on the inputs and present state of the circuit. That is, the outputs influence the the state of the circuit, along with inputs. 
 

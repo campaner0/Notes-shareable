@@ -3,7 +3,7 @@ type: note
 ---
 05/10/2022 19:24
 
-Tags: #Physics 
+  #Physics 
 
 Newton's second law states that the [[Force]] an object experiences is equal to the rate of change of its [[Momentum]]:
 $$

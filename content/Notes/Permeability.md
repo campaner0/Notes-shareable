@@ -3,7 +3,7 @@ type: note
 ---
 12/06/2022 15:40
 
-Tags: #Electromagnetics #Semiconductor_Devices #Physics 
+  #Electromagnetics #Semiconductor_Devices #Physics 
 
 Not to be confused with electric [[Permittivity]], the permeability of a material is a measure of the magnetization produced in the material due to the application of a [[Magnetic Field]]. It is the proportionality constant that relates the $\vec B$ and $\vec H$ fields when they are directly proportional:
 $$

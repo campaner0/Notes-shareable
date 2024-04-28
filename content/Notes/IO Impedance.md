@@ -3,7 +3,7 @@ type: note
 ---
 01/24/2023 10:00
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 
 ## Input Impedance

@@ -3,7 +3,7 @@ type: note
 ---
 02/09/2023 22:21
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 The efficiency of an electric machine is given by:
 $$

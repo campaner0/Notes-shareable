@@ -5,7 +5,7 @@ aliases:
 ---
 02/28/2024 15:39
 
-Tags: #Antennas #Electromagnetics 
+  #Antennas #Electromagnetics 
 
 An antenna array is a collection of [[Antennas]] with the same source or receiver. Because they are connected in this way, the antennas act as one larger antenna. By controlling the amplitude and phase of the signal fed into each antenna, the radiation pattern and direction can be be controlled electronically, even creating multiple beams. 
 

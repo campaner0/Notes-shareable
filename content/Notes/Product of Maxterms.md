@@ -3,7 +3,7 @@ type: note
 ---
 09/12/2022 17:16
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 A product of maxterms is the dual of the [[Sum of Minterms]]. It is the same in that it is a shorthand for a [[Boolean Algebra]] expression written as [[Binary]]:
 $$\begin{align*}

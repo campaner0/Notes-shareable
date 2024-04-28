@@ -3,7 +3,7 @@ type: note
 ---
 11/10/2022 17:11
 
-Tags: #Electromagnetics 
+  #Electromagnetics 
 
 A quarter wavelength transformer is a type of [[Impedance Matching Network]] used for impedance matching with [[Transmission Lines]]. The "transformer" is another transmission line that is a quarter, or some integer multiple of a quarter, wavelength long:
 $$

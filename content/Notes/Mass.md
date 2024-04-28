@@ -3,7 +3,7 @@ type: note
 ---
 03/23/2022 18:26
 
-Tags: #Physics 
+  #Physics 
 
 Mass is a physical property of matter that describes the quantity of matter and its resistance to [[Acceleration]]. An object with a large mass will resist movement more than a less massive object (see [[Inertia]]). Units: $kg$ (kilogram)
 

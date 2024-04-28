@@ -5,7 +5,7 @@ aliases:
 ---
 10/11/2023 12:32
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 Rate of return is the rate paid on an unrecovered balance of borrowed money such that the final payment brings the balance to zero. It is determined by solving for unknown rate ($i^*$) when [[Present Worth Analysis|PW]], [[FW]], or [[Annual Worth Analysis|AW]] = 0. This calculation assumes positive cash flows earned at $i^*$ rate are reinvested.
 

@@ -5,7 +5,7 @@ aliases:
 ---
 03/24/2023 13:41
 
-Tags: #Signals 
+  #Signals 
 
 A DAC, or digital-analog converter, converts digital signals to analog signals. It is the inverse of a [[ADC]], or analog-digital converter. The DAC takes in a digital signal of an arbitrary number of bits. The more bits, the higher the resolution of the output, which is how much the output "steps" up or down when the digital input changes. This is usually given by:
 $$

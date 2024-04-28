@@ -3,7 +3,7 @@ type: note
 ---
 01/27/2023 14:44
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 Assembly, the assembly language, machine language or machine code, is the lowest level human-readable programming language. It describes the basic processes of the [[CPU]]: moving data and operating on it, arithmetic, comparison, interrupts, etc. 
 

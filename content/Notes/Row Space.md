@@ -3,7 +3,7 @@ type: note
 ---
 11/17/2022 17:37
 
-Tags: #math 
+  #math 
 
 The row space of a $n\times m$ [[Matrix]] $A$ is the [[Span]] of the row [[Vector|Vectors]] of $A$. The row space is a [[Vector Subspace]] of $\mathbb{R}^n$. 
 

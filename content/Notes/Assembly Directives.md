@@ -3,7 +3,7 @@ type: note
 ---
 02/13/2023 14:44
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 [[Assembly]] directives are not instructions, but they do provide information to the assembler. They are used to designate the start and end of the file and procedures as well as designate memory blocks and symbols. 
 

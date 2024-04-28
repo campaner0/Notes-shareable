@@ -3,7 +3,7 @@ type: note
 ---
 04/11/2023 18:35
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 DC electric machines recieve/produce a DC current instead of an [[Alternating Current|AC]] current. The armature refers to the rotor of the machine, and the field current is through the stator, which is the opposite of AC machines.
 

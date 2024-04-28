@@ -4,7 +4,7 @@ alias: Active Filter
 ---
 02/08/2023 19:19
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 Active filters are [[Filters]] that include an [[Operational Amplifier|Op-Amp]] to filter frequencies and amplify the passband by a gain determined by the circuit configuration. A higher order filter is related to the slope of the stop band:
 

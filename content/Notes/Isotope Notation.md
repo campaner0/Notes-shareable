@@ -3,7 +3,7 @@ type: note
 ---
 01/15/2024 19:14
 
-Tags: #Chemistry 
+  #Chemistry 
 
 Isotopes/nuclides are notated with super/subscripts indicating the mass and atomic numbers (and charge if applicable).
 $$

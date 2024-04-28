@@ -3,7 +3,7 @@ type: note
 ---
 01/19/2023 19:11
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 Magnetic reluctance is the magnetic analog of electrical [[Resistance]]. It follows the same rules for series/parallel reluctances as resistors. Units: $H^{-1}$ (H = Henries). In [[Magnetically Coupled Circuits|Magnetic Circuits]]:
 $$\begin{align*}

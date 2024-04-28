@@ -3,7 +3,7 @@ type: note
 ---
 10/25/2022 17:57
 
-Tags: #Physics #Electromagnetics #Semiconductor_Devices 
+  #Physics #Electromagnetics #Semiconductor_Devices 
 
 Permittivity is a measure of how easily a material polarizes. High permittivity means a material will polarize more when exposed to an electric field than a material with low permittivity. The permittivity of a material is the product of vacuum permittivity and its relative permittivity. (Units: $F/m$)
 $$

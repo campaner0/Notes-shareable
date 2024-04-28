@@ -7,7 +7,7 @@ aliases:
 ---
 11/01/2022 17:53
 
-Tags: #Electromagnetics #Circuit_Analysis 
+  #Electromagnetics #Circuit_Analysis 
 
 The attenuation of an oscillating signal is the measure of how quickly the energy of the wave changes (in most cases it is reduced) such that the amplitude of the wave approaches infinity or zero. 
 

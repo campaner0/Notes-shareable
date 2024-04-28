@@ -6,7 +6,7 @@ aliases:
 ---
 09/05/2023 14:23
 
-Tags: #engineering_econ 
+  #engineering_econ 
 
 
 To calculate the future value of a sum of money given its present value, use the following formula:

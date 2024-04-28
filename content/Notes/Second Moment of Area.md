@@ -3,7 +3,7 @@ type: note
 ---
 05/10/2022 20:39
 
-Tags: #Statics 
+  #Statics 
 
 Not to be confused with [[Moment of Inertia]]. Moment of inertia of areas, or second moment of area, or area moment of inertia, is a reflection of an object's stiffness and the stress it experiences due to an applied moment (or [[Torque]]). Units: $m^4$ or $in^4$ 
 

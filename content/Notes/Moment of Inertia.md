@@ -3,7 +3,7 @@ type: note
 ---
 04/04/2022 16:16
 
-Tags: #Physics, #Statics 
+  #Physics, #Statics 
 
 Moment of Inertia is the angular equivalent of [[Mass]]. The higher the moment of inertia, the greater [[Torque]] is required to achieve a certain [[Angular Acceleration]]. Also known as angular mass or rotational inertia. Units: $kg\cdot m^2$
 

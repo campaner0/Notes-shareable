@@ -5,7 +5,7 @@ aliases:
 ---
 02/05/2024 18:03
 
-Tags: #Chemistry #Materials_Science
+  #Chemistry #Materials_Science
 
 
 [[Crystal Structures]]

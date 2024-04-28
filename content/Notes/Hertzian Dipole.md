@@ -3,7 +3,7 @@ type: note
 ---
 02/05/2024 16:25
 
-Tags: #Antennas #Electromagnetics 
+  #Antennas #Electromagnetics 
 
 The Hertzian dipole antenna is a type of omnidirectional antenna which consists of two linear conductors along the same axis, separated by a gap. Its length must be much less than the wavelength of its signal, and should not exceed $\lambda/50$.
 

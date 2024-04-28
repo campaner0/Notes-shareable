@@ -3,7 +3,7 @@ type: note
 ---
 03/29/2023 13:49
 
-Tags: #Signals 
+  #Signals 
 
 Any continuous periodic function $f(t)$ can be formed by an infinite sum of sin and cos called a Fourier series. Practically, a finite sum can be used for a very good approximation. The infinite sum of a function $f(t)$ is given by:
 $$

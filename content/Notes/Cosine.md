@@ -4,7 +4,7 @@ alias: Cos
 ---
 08/21/2023 14:47
 
-Tags: #math 
+  #math 
 
 
 

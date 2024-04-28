@@ -3,7 +3,7 @@ type: note
 ---
 12/14/2022 17:57
 
-Tags: #math 
+  #math 
 
 The elementary row operations are the most basic operations that can be performed on a [[Matrix]] to reduce it or otherwise transform it. The operations are:
 1. Row Addition (adding the elements of two rows)

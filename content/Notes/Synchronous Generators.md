@@ -4,7 +4,7 @@ alias: Synchronous Generator
 ---
 03/14/2023 18:40
 
-Tags: #Electric_Machines 
+  #Electric_Machines 
 
 
 

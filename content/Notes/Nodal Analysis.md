@@ -3,7 +3,7 @@ type: note
 ---
 01/31/2023 09:59
 
-Tags: #Circuit_Analysis 
+  #Circuit_Analysis 
 
 Nodal analysis uses [[Kirchhoff's Current Law|KCL]] to solve for unknown voltages at the nodes of a circuit. The process:
 

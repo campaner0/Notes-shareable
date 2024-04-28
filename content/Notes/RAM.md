@@ -3,7 +3,7 @@ type: note
 ---
 11/28/2022 17:27
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 RAM, or random access memory, is memory which can be accessed at any location within memory at the same speed, as opposed to [[Serial Memory]]. It can be written to or read from and reset, but does not hold memory after a power loss, as opposed to [[ROM]]. RAM can be either SRAM or DRAM.
 

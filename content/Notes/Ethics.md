@@ -3,7 +3,7 @@ type: note
 ---
 08/14/2023 13:05
 
-Tags: #ethics 
+  #ethics 
 
 
 

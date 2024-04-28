@@ -4,7 +4,7 @@ alias: Transformers
 ---
 10/11/2022 18:09
 
-Tags: #Circuit_Analysis #Electromagnetics #Electric_Machines 
+  #Circuit_Analysis #Electromagnetics #Electric_Machines 
 
 A transformer uses a magnetic field to change the amplitude of the [[Voltage]] of an input signal without affecting [[Frequency]]. It is made up of two or more coils of wire and a magnetic core. This core asists in directing the [[Magnetic Flux]] from one coil to the other, which completes the circuit without an electrical conection between the windings. The [[Electrical Power]] is kept constant through this transformation, therefore if the voltage is raised, the [[Current]] must drop and vice versa. 
 

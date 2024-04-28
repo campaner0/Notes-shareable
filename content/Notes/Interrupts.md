@@ -4,7 +4,7 @@ alias: Interrupt
 ---
 03/24/2023 15:09
 
-Tags: #Embeded_Systems 
+  #Embeded_Systems 
 
 Interrupts generate a request to the [[CPU]] to change the task the CPU is running. This opposed to polling, where the CPU is contantly reading the IDR (see [[General Purpose Input Output|GPIO]]) to see if a certain bit is set. For interrupts, the harware generates a service request when necessary so that the CPU can work on other tasks. When the CPU recieves a request, it stops the current code and runs an Interrupt service routine (ISR).
 

@@ -3,7 +3,7 @@ type: note
 ---
 10/04/2022 17:36
 
-Tags: #Electromagnetics 
+  #Electromagnetics 
 
 The electric displacement field, or [[Electric Flux]] density, 
 

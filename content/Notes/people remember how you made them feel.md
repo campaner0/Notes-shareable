@@ -3,7 +3,7 @@ type: musing
 ---
 09/27/2023 22:59
 
-Tags: 
+  
 
 
 >[!quote]

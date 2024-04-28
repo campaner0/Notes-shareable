@@ -3,7 +3,7 @@ type: note
 ---
 09/07/2022 17:52
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 Duality is a principle of math where a [[Function]] corresponds [[1-1 Functions|1 to 1]] with its dual such that a function is often the inverse of its dual.
 

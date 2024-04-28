@@ -3,7 +3,7 @@ type: note
 ---
 09/07/2022 17:47
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 In [[Boolean Algebra]], a product of sums occurs when an expression is arranged such that within each term the variables are summed and each term is multiplied:
 $$

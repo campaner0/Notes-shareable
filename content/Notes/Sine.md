@@ -4,7 +4,7 @@ alias: Sin
 ---
 08/21/2023 15:14
 
-Tags: #math 
+  #math 
 
 
 

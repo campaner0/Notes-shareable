@@ -3,7 +3,7 @@ type: note
 ---
 09/14/2022 10:20
 
-Tags: #Linear_Algebra 
+  #Linear_Algebra 
 
 A [[Matrix]] is in row reduced echelon form when it satisfies the requirements for [[Echelon Form]] and:
 1. The leading entries in each non-zero row are 1

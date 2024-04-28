@@ -3,7 +3,7 @@ type: note
 ---
 04/12/2023 14:05
 
-Tags: #math 
+  #math 
 
 The trigonometric functions are those that describe right [[Triangle]]s.
 

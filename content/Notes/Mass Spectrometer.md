@@ -3,7 +3,7 @@ type: note
 ---
 03/22/2022 23:23
 
-Tags: #Physics 
+  #Physics 
 
 Identifies mass of atom, molecule
 1. charge enters [[Velocity Selector]]

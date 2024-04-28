@@ -3,7 +3,7 @@ type: note
 ---
 01/17/2024 17:07
 
-Tags: #Chemistry 
+  #Chemistry 
 
 ![[Atomic Weight]]
 

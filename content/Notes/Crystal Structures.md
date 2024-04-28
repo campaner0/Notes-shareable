@@ -3,7 +3,7 @@ type: note
 ---
 02/05/2024 18:13
 
-Tags: #Chemistry #Materials_Science 
+  #Chemistry #Materials_Science 
 
 allotropes - same material, different crystal structures
 

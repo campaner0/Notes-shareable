@@ -3,7 +3,7 @@ type: note
 ---
 11/23/2023 15:28
 
-Tags: #Control_Systems 
+  #Control_Systems 
 
 A control system can be composed of many different components depending on the complexity required, but a few parts are necessary to for a functioning system. These are:
 1. Input Signal

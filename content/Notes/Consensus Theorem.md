@@ -3,7 +3,7 @@ type: note
 ---
 09/07/2022 17:39
 
-Tags: #Digital_Logic 
+  #Digital_Logic 
 
 The consensus theorem is a [[Boolean Algebra]] theorem that states:
 $$

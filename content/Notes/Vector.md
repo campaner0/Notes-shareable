@@ -3,7 +3,7 @@ type: note
 ---
 03/25/2022 18:20
 
-Tags: #math, #Physics, #Statics, #Electromagnetics, #Linear_Algebra 
+  #math, #Physics, #Statics, #Electromagnetics, #Linear_Algebra 
 
 A vector is a mathematical concept that has both [[Magnitude]] and direction, and is often denoted with an arrow above a letter or a bold letter e.g. $\vec v$ or $\mathbf v$. 
 
