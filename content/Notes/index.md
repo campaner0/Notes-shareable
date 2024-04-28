@@ -1,8 +1,10 @@
 ---
-title: Welcome to Quartz
+type: metanote
 ---
+08/02/2023 22:24
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Tags: #vault
 
-[[Ferrimagnetism]]
+```dataview
+TABLE file.cday AS Started, file.mday AS Modified, file.folder AS Folder, file.etags AS Tags
+```
