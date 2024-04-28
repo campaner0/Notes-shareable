@@ -3,6 +3,7 @@ title: Ferrimagnitism
 type: note
 aliases:
   - Ferrimagnetism
+draft: false
 ---
 04/15/2024 17:11
 
