@@ -1,0 +1,8 @@
+---
+type: musing
+---
+Power over the world and others was not given to us. Humans' only real domain is their own body and mind, so worrying about anyone or anything outside of ourselves results in despair since others act on their own no matter what we try. The third servant in the parable of the talents buried the money his master gave him because he knew his master was "a hard man" and worried so much about failing him that he didn't act at all. He despaired over an outcome he couldn't control. Even if he lost all the money trying to make some profit, at least he showed  his master that he tried and wanted to do well. The possible loss or gain wasn't up to him anyway. It was all a roll of the dice. 
+
+Krishna said to Arjun that people are not entitled to the results of their actions, only the opportunity to act. Arjun's whole family could be killed and the kingdom destroyed in the battle, but Arjun could only lead the army or not. Everything else was not his responsibility or domain. 
+
+Therefore, the only way to enjoy life is to go with the flow and act as situations develop, simply living one step at a time. Jesus said that no one can add an hour to their life by worrying, and I think worrying and anxiety is so detrimental to life enjoyment since they take away the main source of fulfillment in life by trying to impose control or by a fear of what will happen in a situation where one is not in control: [[indeterminacy is the main attraction of the real time enviroment]]
