@@ -21,10 +21,12 @@ where
 sheet resistance
 Resistance of very thin films is determined by measuring the resistance across two metal pads on top of the film. 
 
-$$\begin{align*}
+$$
+\begin{align*}
 R_{s} &= \rho\left(\frac{L}{tW}\right)\\
 &= \frac{\rho}{t}
-\end{align*}$$
+\end{align*}
+$$
 where 
 - $L$ = distance between metal contacts
 - $W$ = width of contacts

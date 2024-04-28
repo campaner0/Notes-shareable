@@ -17,9 +17,11 @@ where
 
 >[!note]
 >If only part of a function is of interest or is only defined for certain values, the limits of the integral can be changed accordingly. 
->>[!example]
->>The one-sided Laplace transform:
->>$\mathscr{L}\{u(t)\}=\int_{0}^{\infty}e^{-st}dt$
+>
+>For example, the one-sided Laplace transform:
+>$$
+>\mathscr{L}\{u(t)\}=\int_{0}^{\infty}e^{-st}dt
+>$$
 
 ---
 
