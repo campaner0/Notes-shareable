@@ -1,4 +1,5 @@
 ---
+title: Ferrimagnitism
 type: note
 aliases:
   - Ferrimagnetism
