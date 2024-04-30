@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Resistor
-tags: [Materials_Science]
+tags: [Electronic_Materials]
 ---
 01/19/2023 19:12
 

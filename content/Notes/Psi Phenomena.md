@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [parapsychology]
+tags: [Parapsychology]
 ---
 11/17/2023 18:57
 

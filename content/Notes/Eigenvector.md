@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [math]
+tags: [Math]
 ---
 11/17/2022 18:01
 

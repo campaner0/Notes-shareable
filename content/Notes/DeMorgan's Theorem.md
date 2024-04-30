@@ -6,18 +6,19 @@ tags: [Digital_Logic]
 
   
 
-DeMorgan's throrem is a [[Boolean Algebra]] theorem that states:
+DeMorgan's theorem is a [[Boolean Algebra]] theorem that states:
 $$
-\overline{X+Y}=\bar{X}\cdot\bar{Y}
+\overline{X+Y}=\overline{X}\cdot\overline{Y}
 $$
 $$
-\overline{X\cdot Y}=\bar{X}+\bar{Y}
+\overline{X\cdot Y}=\overline{X}+\overline{Y}
 $$
-This may be proven through truth tables:
-|X|Y|$\overline{X+Y}$|$\bar{X}\cdot\bar{Y}$|
-|-----|-----|-----|-----|
-|0|0|1|1|
-|0|1|1|1|
-|1|0|1|1|
-|1|1|0|0|
+This may be proven through its truth table:
+
+| X   | Y   | $\overline{X+Y}$ | $\bar{X}\cdot\bar{Y}$ |
+| --- | --- | ---------------- | --------------------- |
+| 0   | 0   | 1                | 1                     |
+| 0   | 1   | 1                | 1                     |
+| 1   | 0   | 1                | 1                     |
+| 1   | 1   | 0                | 0                     |
 

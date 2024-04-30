@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [math, Signals]
+tags: [Math, Signals]
 ---
 02/06/2023 14:06
 

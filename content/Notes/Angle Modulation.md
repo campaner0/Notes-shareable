@@ -4,7 +4,7 @@ aliases:
   - Frequency Modulation
   - FM
   - Phase Modulation
-tags: [comunication_systems, Signals]
+tags: [Comunication_Systems, Signals]
 ---
 08/14/2023 15:10
 

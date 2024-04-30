@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [engineering_econ]
+tags: [Engineering_Econ]
 ---
 08/16/2023 13:03
 

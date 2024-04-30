@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Unit Vectors
-tags: [math]
+tags: [Math]
 ---
 05/24/2022 15:46
 

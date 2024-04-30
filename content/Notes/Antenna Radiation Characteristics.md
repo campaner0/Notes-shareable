@@ -1,9 +1,10 @@
 ---
 type: note
+tags: [Electromagnetics, Antennas]
 ---
 02/07/2024 15:50
 
-  #Electromagnetics #Antennas 
+  
 
 An antenna's intensity of radiation in three dimensions is called its antenna pattern, and this directional pattern is described in terms of the normalized radiation intensity:
 $$
@@ -39,7 +40,9 @@ where
 - $\theta$ = half power angles, where $F(\theta,\,0)=0.5$ 
 
 >[!note]
->For antennas with a single main lobe pointing in the $z$ direction, $\Omega_p$ is approximately the product of the half power beamwidths in the $xz$ and $yz$ planes:
+>For antennas with a single main lobe pointing in a certain direction, $\Omega_p$ is approximately the product of the half power beamwidths in the planes perpendicular to that direction. 
+>
+>Ex: When pointing in the $z$ direction
 >$$
 >\Omega_{p}\approx\beta_{xz}\beta_{yz}
 >$$

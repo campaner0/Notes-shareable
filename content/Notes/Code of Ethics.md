@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [ethics]
+tags: [Ethics]
 ---
 08/28/2023 12:55
 

@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [math, Circuit_Analysis]
+tags: [Math, Circuit_Analysis]
 ---
 10/31/2022 16:23
 

@@ -1,6 +1,6 @@
 ---
 type:
-tags: [math]
+tags: [Math]
 ---
 08/18/2022 17:39
 

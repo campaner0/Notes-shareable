@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Cos
-tags: [math]
+tags: [Math]
 ---
 08/21/2023 14:47
 

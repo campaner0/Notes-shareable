@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Sin
-tags: [math]
+tags: [Math]
 ---
 08/21/2023 15:14
 

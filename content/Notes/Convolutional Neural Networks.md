@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [machine_learning]
+tags: [Machine_Learning]
 ---
 04/02/2024 11:50
 

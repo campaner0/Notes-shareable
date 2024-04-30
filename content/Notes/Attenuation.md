@@ -37,24 +37,24 @@ The complex constants of $s_1$ and $s_2\,$, $K_1$ and $K_2$ are conjugates, henc
 >[!example] Purely Real Damped Sinusoid
 >In this case, the imaginary part of the complex frequency is zero:
 >$$
-v(t)=\mathfrak{Re}\{Ae^{j\theta}e^{st}\}=Ae^{\sigma t}\cos(\omega t+\theta)
-$$
+>v(t)=\mathfrak{Re}\{Ae^{j\theta}e^{st}\}=Ae^{\sigma t}\cos(\omega t+\theta)
+>$$
 
 >[!example] Undamped Sinusoid
 >In this case, the real part of the complex frequency is zero:
 >$$
-v(t)=K_1e^{s_1t}+K_2e^{s_2t}
-$$
+>v(t)=K_1e^{s_1t}+K_2e^{s_2t}
+>$$
 
 >[!example] Exponential
 >This case is simply the exponential function with the imaginary part of the complex frequency equal to zero:
 >$$
-v(t)=Ae^{\sigma t}
-$$
+>v(t)=Ae^{\sigma t}
+>$$
 
 >[!example] DC
 >A DC signal is simply an exponential with complex frequency $s=0$
 >$$
-v(t)=A
-$$
+>v(t)=A
+>$$
 

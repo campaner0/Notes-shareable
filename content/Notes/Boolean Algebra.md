@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [Digital_Logic, math]
+tags: [Digital_Logic, Math]
 ---
 08/29/2022 17:53
 

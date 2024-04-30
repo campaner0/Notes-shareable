@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Euler's Identity
-tags: [math]
+tags: [Math]
 ---
 01/23/2023 13:32
 

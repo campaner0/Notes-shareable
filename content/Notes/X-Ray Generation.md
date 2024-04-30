@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [Physics, Materials_Science]
+tags: [Physics, Electronic_Materials]
 ---
 02/19/2024 17:09
 

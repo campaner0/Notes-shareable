@@ -1,7 +1,7 @@
 ---
 aliases: []
 type: note
-tags: [Physics, Materials_Science, Semiconductor_Devices]
+tags: [Physics, Electronic_Materials, Semiconductor_Devices]
 ---
 
 08/04/2023 13:56

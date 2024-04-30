@@ -4,7 +4,8 @@ aliases:
   - 1 to 1 Functions
   - 1 to 1
   - 1-1
-tags: [math]
+tags:
+  - Linear_Algebra
 ---
 11/16/2022 11:32
 

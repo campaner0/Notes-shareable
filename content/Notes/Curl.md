@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [math, Electromagnetics]
+tags: [Math, Electromagnetics]
 ---
 08/23/2022 17:41
 

@@ -1,6 +1,8 @@
 ---
 type: note
-tags: [math]
+tags:
+  - Math
+  - Linear_Algebra
 ---
 11/17/2022 18:22
 

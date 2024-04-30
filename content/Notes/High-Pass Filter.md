@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [Circuit_Analysis, comunication_systems]
+tags: [Circuit_Analysis, Comunication_Systems]
 ---
 09/06/2023 15:17
 

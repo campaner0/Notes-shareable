@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [comunication_systems]
+tags: [Comunication_Systems]
 ---
 10/25/2023 14:59
 

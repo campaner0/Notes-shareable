@@ -2,7 +2,7 @@
 type: note
 aliases:
   - ROR
-tags: [engineering_econ]
+tags: [Engineering_Econ]
 ---
 10/11/2023 12:32
 

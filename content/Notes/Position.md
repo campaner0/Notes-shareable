@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [Physics, math, Statics]
+tags: [Physics, Math, Statics]
 ---
 03/21/2022 17:36
 

@@ -1,7 +1,7 @@
 ---
 type: note
 alias: OSI
-tags: [comunication_systems]
+tags: [Comunication_Systems]
 ---
 08/18/2023 14:41
 

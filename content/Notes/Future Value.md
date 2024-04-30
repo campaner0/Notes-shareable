@@ -3,7 +3,7 @@ type: note
 aliases:
   - F
   - FW
-tags: [engineering_econ]
+tags: [Engineering_Econ]
 ---
 09/05/2023 14:23
 

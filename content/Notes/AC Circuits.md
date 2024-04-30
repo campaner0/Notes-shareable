@@ -1,6 +1,8 @@
 ---
 type: note
-tags: [Physics, Circuit_Analysis]
+tags:
+  - Physics
+  - Circuit_Analysis
 ---
 04/14/2022 12:39
 

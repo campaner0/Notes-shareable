@@ -2,7 +2,7 @@
 type: note
 aliases:
   - IRR
-tags: [engineering_econ]
+tags: [Engineering_Econ]
 ---
 10/24/2023 20:54
 

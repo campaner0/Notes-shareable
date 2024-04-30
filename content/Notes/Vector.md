@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [math, Physics, Statics, Electromagnetics, Linear_Algebra]
+tags: [Math, Physics, Statics, Electromagnetics, Linear_Algebra]
 ---
 03/25/2022 18:20
 

@@ -2,7 +2,7 @@
 type: note
 aliases:
   - PW
-tags: [engineering_econ]
+tags: [Engineering_Econ]
 ---
 10/04/2023 13:08
 

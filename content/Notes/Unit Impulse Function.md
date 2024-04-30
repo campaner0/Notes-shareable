@@ -3,7 +3,7 @@ type: note
 aliases:
   - Impulse Function
   - Dirac Delta Function
-tags: [math, Circuit_Analysis]
+tags: [Math, Circuit_Analysis]
 ---
 10/31/2022 20:58
 

@@ -2,7 +2,7 @@
 type: note
 aliases:
   - CLI
-tags: [computer_engineering, computer_science]
+tags: [Computer_Engineering, Computer_Science]
 ---
 04/27/2024 22:11
 

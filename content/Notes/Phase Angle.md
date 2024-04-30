@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Phase
-tags: [math, Physics, Circuit_Analysis, Electromagnetics]
+tags: [Math, Physics, Circuit_Analysis, Electromagnetics]
 ---
 02/02/2023 16:43
 

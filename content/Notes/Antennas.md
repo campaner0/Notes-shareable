@@ -2,10 +2,11 @@
 type: note
 aliases:
   - Antenna
+tags: [Antennas, Electromagnetics]
 ---
 02/05/2024 15:39
 
-  #Antennas #Electromagnetics 
+  
 
 An antenna is a [[Transducer]] that converts a wave propagating on a [[Transmission Lines|Transmission Line]] into an [[Electromagnetic Wave]] propagating in free space (or some other unbounded medium) and vice versa. 
 

@@ -2,7 +2,7 @@
 type: note
 aliases:
   - BER
-tags: [comunication_systems]
+tags: [Comunication_Systems]
 ---
 11/06/2023 14:42
 

@@ -1,7 +1,7 @@
 ---
 type: note
 alias: Complex Number
-tags: [math, Circuit_Analysis]
+tags: [Math, Circuit_Analysis]
 ---
 04/08/2022 14:34
 

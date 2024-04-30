@@ -2,7 +2,7 @@
 type: note
 aliases:
   - Laplacian
-tags: [math, Electromagnetics]
+tags: [Math, Electromagnetics]
 ---
 11/02/2022 22:48
 

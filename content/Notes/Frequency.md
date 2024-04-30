@@ -1,6 +1,6 @@
 ---
 type: note
-tags: [Physics, Circuit_Analysis, Digital_Logic, Electromagnetics, Electric_Machines, math, Signals, comunication_systems, Control_Systems]
+tags: [Physics, Circuit_Analysis, Digital_Logic, Electromagnetics, Electric_Machines, Math, Signals, Comunication_Systems, Control_Systems]
 ---
 01/17/2023 18:42
 

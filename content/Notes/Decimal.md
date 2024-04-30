@@ -2,7 +2,7 @@
 type: note
 aliases:
   - Base 10
-tags: [math, Digital_Logic]
+tags: [Math, Digital_Logic]
 ---
 09/07/2022 20:48
 

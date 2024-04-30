@@ -2,7 +2,7 @@
 type: note
 aliases:
   - Kernel
-tags: [math]
+tags: [Math]
 ---
 11/16/2022 21:32
 
